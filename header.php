@@ -22,6 +22,9 @@
 </style>
 </head>
 <body>
+<?php
+    include_once("analyticstracking.php")
+?>
 <!--Navbar-->
         <nav class="navbar navbar-inverse navbar-static-top" role="navigation" style="margin-bottom: 0px">
             <div class="container">
