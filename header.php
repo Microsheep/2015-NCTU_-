@@ -22,21 +22,23 @@
 </style>
 </head>
 <?php
-    global $school_count,$school_name,$school_ref,$school_fb,$school_web,$school_newcomer;
-    global $region_count,$region_name,$region_ref,$region_fb,$region_web,$region_newcomer;
+    global $school_count,$school_name,$school_ref,$school_pdf,$school_fb,$school_web,$school_newcomer;
+    global $region_count,$region_name,$region_ref,$region_pdf,$region_fb,$region_web,$region_newcomer;
     global $photo_count;
     $school_count=20;
     $school_name=["電機資訊學士班","奈米科學及工程學士學位學程","電子工程學系","電機工程學系","光電工程學系","資訊工程學系","材料科學與工程學系","機械工程學系","土木工程學系","電子物理學系","應用化學系","應用數學系","生物科技學系","資訊管理與財務金融學系","管理科學系","運輸與物流管理學系","工業工程與管理學系","外國語文學系","傳播與科技學系","人文社會學系"];
     $school_ref=["eecshp","nano","ee","dece","ieo","cs","mse","me","cv","ep","ac","math","life","imf","ms","tlm","iem","fl","dct","hs"];
-    $school_fb=["","","","","","","","","","","","","","","","","","","",""];
-    $school_web=["","","","","","","","","","","","","","","","","","","",""];
+    $school_pdf=["0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0"];
+    $school_fb=["","","","","","https://www.facebook.com/pages/%E4%BA%A4%E5%A4%A7%E8%B3%87%E5%B7%A5%E7%B3%BB%E5%AD%B8%E6%9C%83/177647505627076","","","","","","","","","","","","","",""];
+    $school_web=["","","","","","http://www.nctucs.tw/","","","","","","","","","","","","","",""];
     $school_newcomer=["","","https://www.facebook.com/groups/452945314853615/","https://www.facebook.com/groups/NCTUECE108/","https://www.facebook.com/groups/882727861774113/","https://www.facebook.com/groups/nctucs108/","","https://www.facebook.com/groups/1576860995907292/","https://www.facebook.com/groups/NCTUCE/","https://www.facebook.com/groups/1589602441288039/","http://www.facebook.com/groups/897179183676350","https://www.facebook.com/groups/1416411995347629/","https://www.facebook.com/groups/299182023539468/","https://www.facebook.com/groups/NCTU.IMF08/","","","https://www.facebook.com/groups/943955008961081/","","",""];
-    $region_count=1;
-    $region_name=["南友會"];
-    $region_ref=["tainan"];
-    $region_fb=[""];
-    $region_web=[""];
-    $region_newcomer=[""];
+    $region_count=20;
+    $region_name=["花蓮校友會","竹苗地區校友會","附中山校友會","蘭友會","彰化校友會","台南地區校友會","中部校友會","高雄屏東校友會","金門校友會","武陵高中校友會","成功景美校友會","松山校友會","內湖高中校友會","嘉義雲林校友會","建中北一女校友會","中和高中校友會","北部校友會","澎湖校友會","桃園地區同鄉會","薇閣校友會"];
+    $region_ref=["","","","","","","","","","","","","","","","","","","",""];
+    $region_pdf=["0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0"];
+    $region_fb=["","","","","","","","","","","","","","","","","","","",""];
+    $region_web=["","","","","","","","","","","","","","","","","","","",""];
+    $region_newcomer=["","","","","","","","","","","","","","","","","","","",""];
     $photo_count=2;
 ?>
 <body>
