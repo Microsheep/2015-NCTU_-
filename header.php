@@ -19,6 +19,7 @@
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <style>
     body{font-family: 'cwTeXHei', serif}
+    .table tbody>tr>td{vertical-align: middle;}
 </style>
 </head>
 <?php
