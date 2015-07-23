@@ -28,7 +28,7 @@
         </div>
         <div class="col-md-3 text-center">
             <br><br><br><br>
-            <img src="./asset/photo/logo.png" style="width: 100%;max-width: 300px"> 
+            <img src="./asset/photo/logo.PNG" style="width: 100%;max-width: 300px"> 
         </div>
         <div class="col-md-2"></div>
     </div>
