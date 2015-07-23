@@ -18,7 +18,7 @@
             <img class="slide" src="./asset/photo/1.JPG" alt="Something went wrong...">
         </div>
         <?php
-            for( $i=2 ; $i<=$photo_count ; $i++ ){
+            for( $i=2 ; $i<=$page_count ; $i++ ){
                 echo "<div class=\"item\">";
                 echo "<img class=\"slide\" src=\"./asset/photo/" . $i . ".JPG\" alt=\"Something went wrong...\">";
                 echo "</div>";

@@ -28,7 +28,7 @@
 <?php
     global $school_count,$school_name,$school_ref,$school_pdf,$school_fb,$school_web,$school_newcomer;
     global $region_count,$region_name,$region_ref,$region_pdf,$region_fb,$region_web,$region_newcomer;
-    global $photo_count;
+    global $page_count,$page_name;
     $school_count=20;
     $school_name=["電機資訊學士班","奈米科學及工程學士學位學程","電子工程學系","電機工程學系","光電工程學系","資訊工程學系","材料科學與工程學系","機械工程學系","土木工程學系","電子物理學系","應用化學系","應用數學系","生物科技學系","資訊管理與財務金融學系","管理科學系","運輸與物流管理學系","工業工程與管理學系","外國語文學系","傳播與科技學系","人文社會學系"];
     $school_ref=["eecshp","nano","ee","dece","ieo","cs","mse","me","cv","ep","ac","math","life","imf","ms","tlm","iem","fl","dct","hs"];
@@ -43,7 +43,8 @@
     $region_fb=["","","","","","","","","","","","","","","","","","","",""];
     $region_web=["","","","","","","","","","","","","","","","","","","",""];
     $region_newcomer=["","","","","","","","","","","","","","","","","","","",""];
-    $photo_count=2;
+    $page_count=2;
+    $page_name=["歡迎來到交大","新生地圖"];
 ?>
 <body>
 <?php
@@ -67,9 +68,14 @@
                         <li class="dropdown active">
                             <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">學聯會新生包<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="./slideshow.php">新生包 Slideshow</a></li>
+                                <li><a href="./slideshow.php">新生包 Slideshow<br>(不建議手機使用)</a></li>
                                 <li role="separator" class="divider"></li>
-                                <li><a href="./direct.php">新生包 OnePage</a></li>
+                                <li class="dropdown-header">新生包</li>
+                                <?php
+                                    for( $i=1; $i<=$page_count ; $i++ ){
+                                        echo "<li><a href=\"./direct.php#" . $i . "\">" . $page_name[($i-1)] . "</a></li>";
+                                    }
+                                ?>
                             </ul>
                         </li>
                         <li class="active"><a href="./map.php">交大新生地圖</a></li>
