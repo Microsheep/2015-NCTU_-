@@ -1,8 +1,13 @@
 <?php
     include_once("./header.php");
 ?>
-
-<div class="jumbotron" style="background-image: url(./asset/photo/home_top_bg.jpg);background-size: cover">
+<style>
+    body{
+        background-image: url(./asset/photo/home_top_bg.jpg);
+        background-size: cover;
+    }
+</style>
+<div class="jumbotron" style="background-color:transparent">
     <div class="row">
         <div class="col-md-2"></div>
         <div class="col-md-5">
