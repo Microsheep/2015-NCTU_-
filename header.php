@@ -18,7 +18,7 @@
 <link href="https://fonts.googleapis.com/earlyaccess/cwtexhei.css" rel="stylesheet">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <style>
-    body{font-family: 'cwTeXHei', serif;font-weight: 500;}
+    body{font-family: 'cwTeXHei', serif}
 </style>
 </head>
 <body>

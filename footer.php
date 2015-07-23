@@ -1,5 +1,5 @@
 <footer class="footer">
-    <h5 style="text-align: center; color: white">交大學聯會</h5>
+    <h5 style="text-align: center; color: white"><i class="fa fa-copyright"></i> 交大學聯會 資訊部 2015</h5>
 </footer>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
