@@ -3,7 +3,7 @@
     <h6 style="text-align: center; color: white">建議使用Google Chrome或Mozilla Firefox以獲得最佳瀏覽效果</h6>
 </footer>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="./asset/bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>
 </body>

@@ -8,6 +8,9 @@
     }
 ?>
 
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="./asset/bs-back-to-top.js"></script>
+
 <?php
     include_once("footer.php");
 ?>
