@@ -18,7 +18,10 @@
                 <p><b>今天我們邀請你加入交大的大家庭</b></p>
                 <p><b>我們恭喜你，更歡迎你</b></p>
                 <p><b>來到國立交通大學</b></p>
-                <p><a class="btn btn-primary btn-lg" href="./slideshow.php" role="button">學聯會新生包 &raquo; </a></p><br>
+                <p><div class="btn-group">
+                    <a class="btn btn-primary btn-lg" href="./slideshow.php" role="button">學聯會新生包 &raquo; </a>
+                    <a class="btn btn-primary btn-lg" href="./direct.php" role="button">手機版 &raquo; </a>
+                </div></p><br>
                 <p>
                 <a class="btn btn-warning" href="./download_school.php" role="button">系學會資訊 &raquo; </a>
                 <a class="btn btn-info" href="./download_region.php" role="button">友會資訊 &raquo; </a>
