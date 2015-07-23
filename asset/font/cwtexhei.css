@@ -1,0 +1,13 @@
+/*
+ * cwTeXHei (Chinese-traditional) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+  font-family: 'cwTeXHei';
+  font-style: normal;
+  font-weight: 500;
+  src: url(./cwTeXHei-zhonly.eot);
+  src: url(./cwTeXHei-zhonly.eot+) format('embedded-opentype'),
+       url(./cwTeXHei-zhonly.woff2) format('woff2'),
+       url(./cwTeXHei-zhonly.woff) format('woff'),
+       url(./cwTeXHei-zhonly.ttf) format('truetype');
+}
