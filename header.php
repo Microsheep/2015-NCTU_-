@@ -21,6 +21,24 @@
     body{font-family: 'cwTeXHei', serif}
 </style>
 </head>
+<?php
+    global $school_count,$school_name,$school_ref,$school_fb,$school_web,$school_newcomer;
+    global $region_count,$region_name,$region_ref,$region_fb,$region_web,$region_newcomer;
+    global $photo_count;
+    $school_count=20;
+    $school_name=["電機資訊學士班","奈米科學及工程學士學位學程","電子工程學系","電機工程學系","光電工程學系","資訊工程學系","材料科學與工程學系","機械工程學系","土木工程學系","電子物理學系","應用化學系","應用數學系","生物科技學系","資訊管理與財務金融學系","管理科學系","運輸與物流管理學系","工業工程與管理學系","外國語文學系","傳播與科技學系","人文社會學系"];
+    $school_ref=["eecshp","nano","ee","dece","ieo","cs","mse","me","cv","ep","ac","math","life","imf","ms","tlm","iem","fl","dct","hs"];
+    $school_fb=["","","","","","","","","","","","","","","","","","","",""];
+    $school_web=["","","","","","","","","","","","","","","","","","","",""];
+    $school_newcomer=["","","https://www.facebook.com/groups/452945314853615/","https://www.facebook.com/groups/NCTUECE108/","https://www.facebook.com/groups/882727861774113/","https://www.facebook.com/groups/nctucs108/","","https://www.facebook.com/groups/1576860995907292/","https://www.facebook.com/groups/NCTUCE/","https://www.facebook.com/groups/1589602441288039/","http://www.facebook.com/groups/897179183676350","https://www.facebook.com/groups/1416411995347629/","https://www.facebook.com/groups/299182023539468/","https://www.facebook.com/groups/NCTU.IMF08/","","","https://www.facebook.com/groups/943955008961081/","","",""];
+    $region_count=1;
+    $region_name=["南友會"];
+    $region_ref=["tainan"];
+    $region_fb=[""];
+    $region_web=[""];
+    $region_newcomer=[""];
+    $photo_count=2;
+?>
 <body>
 <?php
     include_once("./asset/analyticstracking.php")

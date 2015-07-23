@@ -8,8 +8,7 @@
     <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <?php
-            $count=2;
-            for( $i=2 ; $i<=$count ; $i++ ){
+            for( $i=2 ; $i<=$photo_count ; $i++ ){
                 echo "<li data-target=\"#myCarousel\" data-slide-to=\"" . ($i-1) . "\"></li>";
             }
         ?>
@@ -19,8 +18,7 @@
             <img class="slide" src="./asset/photo/1.JPG" alt="Something went wrong...">
         </div>
         <?php
-            $count = 2;
-            for( $i=2 ; $i<=$count ; $i++ ){
+            for( $i=2 ; $i<=$photo_count ; $i++ ){
                 echo "<div class=\"item\">";
                 echo "<img class=\"slide\" src=\"./asset/photo/" . $i . ".JPG\" alt=\"Something went wrong...\">";
                 echo "</div>";
