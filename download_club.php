@@ -58,7 +58,7 @@
             ?>
             </tbody>
         </table>
-        <h4 style="text-align:center">(註：該欄空白代表該社團並未提供該項資料)</h4>
+        <h4 style="text-align:center">(註：該欄空白代表該社團並未提供該項資料。此表並非所有社團，僅為有提供資料之社團)</h4>
     </div>
     <div class="col-md-1">
     </div>
