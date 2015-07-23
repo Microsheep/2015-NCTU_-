@@ -8,7 +8,7 @@
     <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <?php
-            for( $i=2 ; $i<=$photo_count ; $i++ ){
+            for( $i=2 ; $i<=$page_count ; $i++ ){
                 echo "<li data-target=\"#myCarousel\" data-slide-to=\"" . ($i-1) . "\"></li>";
             }
         ?>
