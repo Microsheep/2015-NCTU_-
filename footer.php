@@ -1,5 +1,5 @@
 <footer class="footer">
-    <h5 style="text-align: center; color: white"><i class="fa fa-copyright"></i> 交大學聯會 2015</h5>
+    <h5 style="text-align: center; color: white"><i class="fa fa-copyright"></i> 交大學聯會 2015 Created by : Microsheep</h5>
     <h6 style="text-align: center; color: white">建議使用Google Chrome或Mozilla Firefox以獲得最佳瀏覽效果</h6>
 </footer>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
