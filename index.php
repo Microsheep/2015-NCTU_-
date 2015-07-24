@@ -11,7 +11,7 @@
     <div class="row">
         <div class="col-md-2"></div>
         <div class="col-md-5">
-            <div class="container text-center" style="background-color: rgba(170,170,170,0.7)">
+            <div class="container text-center" style="background-color: rgba(255,255,255,0.5); -moz-border-radius: 20px; border-radius: 20px;">
                 <h1>網路新生包</h1><br>
                 <p><b>我們曾經跟你一樣</b></p>
                 <p><b>我們曾經對這個校園一無所知</b></p><br>
