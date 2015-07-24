@@ -27,27 +27,27 @@
                         echo "<tr>";
                     }    
                     echo "<td>#" . ($i+1) . "</td>";
-                    echo "<td>" . $club_name[$i] . "</td>";
-                    if ($club_pdf[$i]!="0"){
-                        echo "<td><a href=./pdf_view.php?id=" . $club_ref[$i] . ">";
+                    echo "<td>" . $club[$i]["name"] . "</td>";
+                    if ($club[$i]["pdf"]!="0"){
+                        echo "<td><a href=./pdf_view.php?id=" . $club[$i]["name"] . ">";
                         echo "<span class=\"glyphicon glyphicon-search\" aria-hidden=\"true\">\t預覽</span>";
                         echo "</a></td>";
-                        echo "<td><a href=./asset/info/" . $club_ref[$i] . ".pdf>";
+                        echo "<td><a href=./asset/info/" . $club[$i]["name"] . ".pdf>";
                         echo "<span class=\"glyphicon glyphicon-download-alt\" aria-hidden=\"true\">\t下載</span>";
                         echo "</a></td>";
                     }
                     else{
                         echo "<td></td><td></td>";
                     }
-                    if ($club_fb[$i]!=""){
-                        echo "<td><a href=" . $club_fb[$i] . ">";
+                    if ($club[$i]["fb"]!=""){
+                        echo "<td><a href=" . $club[$i]["fb"] . ">";
                         echo "<span class=\"glyphicon glyphicon-education\" aria-hidden=\"true\">\t友會FB</a></td>";
                     }
                     else{
                         echo "<td></td>";
                     } 
-                    if ($club_web[$i]!=""){
-                        echo "<td><a href=" . $club_web[$i] . ">";
+                    if ($club[$i]["web"]!=""){
+                        echo "<td><a href=" . $club[$i]["web"] . ">";
                         echo "<span class=\"glyphicon glyphicon-home\" aria-hidden=\"true\">\t友會網頁</span></a></td>";
                     }
                     else{

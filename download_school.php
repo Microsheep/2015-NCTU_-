@@ -29,38 +29,38 @@
                     }    
                     echo "<td>#" . ($i+1) . "</td>";
                     if($i<18){
-                        echo "<td><a href=http://www." . $school_ref[$i] . ".nctu.edu.tw>" . $school_name[$i] . "</a></td>";
+                        echo "<td><a href=http://www." . $school[$i]["ref"] . ".nctu.edu.tw>" . $school[$i]["name"] . "</a></td>";
                     }
                     else{
-                        echo "<td><a href=http://" . $school_ref[$i] . ".nctu.edu.tw>" . $school_name[$i] . "</a></td>";
+                        echo "<td><a href=http://" . $school[$i]["ref"] . ".nctu.edu.tw>" . $school[$i]["name"] . "</a></td>";
                     }
-                    if ($school_pdf[$i]!="0"){
-                        echo "<td><a href=./pdf_view.php?id=" . $school_ref[$i] . ">";
+                    if ($school[$i]["pdf"]!="0"){
+                        echo "<td><a href=./pdf_view.php?id=" . $school[$i]["name"] . "-系學會新生通知>";
                         echo "<span class=\"glyphicon glyphicon-search\" aria-hidden=\"true\">\t預覽</span>";
                         echo "</a></td>";
-                        echo "<td><a href=./asset/info/" . $school_ref[$i] . ".pdf>";
+                        echo "<td><a href=./asset/info/" . $school[$i]["name"] . "-系學會新生通知.pdf>";
                         echo "<span class=\"glyphicon glyphicon-download-alt\" aria-hidden=\"true\">\t下載</span>";
                         echo "</a></td>";
                     }
                     else{
                         echo "<td></td><td></td>";
                     }
-                    if ($school_newcomer[$i]!=""){
-                        echo "<td><a class=\"btn btn-social btn-facebook\" href=\"" . $school_newcomer[$i] . "\">";
-                        echo "<i class=\"fa fa-facebook\"></i>新生社團：" . $school_name[$i] . "</a></td>";
+                    if ($school[$i]["newcomer"]!=""){
+                        echo "<td><a class=\"btn btn-social btn-facebook\" href=\"" . $school[$i]["newcomer"] . "\">";
+                        echo "<i class=\"fa fa-facebook\"></i>新生社團：" . $school[$i]["name"] . "</a></td>";
                     }
                     else{
                         echo "<td></td>";
                     }
-                    if ($school_fb[$i]!=""){
-                        echo "<td><a href=" . $school_fb[$i] . ">";
+                    if ($school[$i]["fb"]!=""){
+                        echo "<td><a href=" . $school[$i]["fb"] . ">";
                         echo "<span class=\"glyphicon glyphicon-education\" aria-hidden=\"true\">\t系學會FB</a></td>";
                     }    
                     else{
                         echo "<td></td>";
                     }  
-                    if ($school_web[$i]!=""){
-                    echo "<td><a href=" . $school_web[$i] . ">";
+                    if ($school[$i]["web"]!=""){
+                    echo "<td><a href=" . $school[$i]["web"] . ">";
                     echo "<span class=\"glyphicon glyphicon-home\" aria-hidden=\"true\">\t系學會網頁</span></a></td>";
                     }
                     else{
