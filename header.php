@@ -13,17 +13,10 @@
 <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
-<link href="./asset/carousel.css" rel="stylesheet">
+<link href="./asset/micro.css" rel="stylesheet">
 <link href="./asset/bootstrap-social.css" rel="stylesheet">
 <link href="./asset/font/cwtexhei.css" rel="stylesheet">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-<style>
-    body{font-family: 'cwTeXHei', serif;}
-    .table thead>tr>td{vertical-align: middle}
-    .table tbody>tr>td{vertical-align: middle}
-    .table thead>tr{text-align: center}
-    .table tbody>tr{text-align: center}
-</style>
 </head>
 <?php
     include_once("./data.php")
