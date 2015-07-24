@@ -4,7 +4,7 @@
 
 <?php
     for ( $i=1 ; $i<=$page_count ; $i++ ){
-        echo "<img src=\"./asset/photo/" . $i . ".JPG\" style=\"width: 100%; height:auto\" id=\"" . $i . "\">";
+        echo "<img src=\"./asset/pack/" . $i . ".JPG\" style=\"width: 100%; height:auto\" id=\"" . $i . "\">";
     }
 ?>
 

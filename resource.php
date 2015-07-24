@@ -1,10 +1,11 @@
 <?php
     include_once("./header.php");
 ?>
-<div class="jumbotron" style="background-image: url(./asset/photo/home_top_bg.jpg); background-size: cover">
+<div class="jumbotron" style="background-image: url(./asset/photo/home_top_bg.jpg); background-size: cover; margin-bottom: 0px">
     <div class="row">
         <div class="col-md-2"></div>
         <div class="col-md-5">
+            <br>
             <div class="container text-center" style="background-color: rgba(255,255,255,0.5); -moz-border-radius: 20px; border-radius: 20px;">
                 <h1>初入交大</h1><br>
                 <p><b>剛進交大，一定有許多疑問</b></p>
@@ -21,7 +22,87 @@
         </div>
         <div class="col-md-3 text-center">
             <br>
-            <img src="./asset/icon/school1.png" style="width: 100%;max-width: 300px"> 
+            <img src="./asset/photo/school1.png" style="width: 100%;max-width: 300px"> 
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+</div>
+<div class="jumbotron" style="background-image: url(./asset/photo/home_top_bg.jpg); background-size: cover; margin-bottom: 0px">
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-3 text-center">
+            <br>
+            <img src="./asset/photo/re_mail.png" style="width: 100%;max-width: 300px"> 
+        </div>
+        <div class="col-md-5">
+            <br>
+            <div class="container text-center" style="background-color: rgba(255,255,255,0.5); -moz-border-radius: 20px; border-radius: 20px;">
+                <h1>申請D2帳號</h1><br>
+                <p><b></b></p>
+                <p><b></b></p>
+                <p><b></b></p>
+                <p><a class="btn btn-success btn-lg" href="https://d2.nctu.edu.tw/apply/" role="button">D2 信箱申請 &raquo; </a></p>
+            </div> 
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+</div>
+<div class="jumbotron" style="background-image: url(./asset/photo/home_top_bg.jpg); background-size: cover; margin-bottom: 0px">
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-3 text-center">
+            <br>
+            <img src="./asset/photo/" style="width: 100%;max-width: 300px"> 
+        </div>
+        <div class="col-md-5">
+            <br>
+            <div class="container text-center" style="background-color: rgba(255,255,255,0.5); -moz-border-radius: 20px; border-radius: 20px;">
+                <h1>如何連接學校網路</h1><br>
+                <p><b></b></p>
+                <p><b></b></p>
+                <p><b></b></p>
+                <p><a class="btn btn-success btn-lg" href="https://d2.nctu.edu.tw/apply/" role="button">D2 信箱申請 &raquo; </a></p>
+            </div> 
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+</div>
+<div class="jumbotron" style="background-image: url(./asset/photo/home_top_bg.jpg); background-size: cover; margin-bottom: 0px">
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-3 text-center">
+            <br>
+            <img src="./asset/photo/" style="width: 100%;max-width: 300px"> 
+        </div>
+        <div class="col-md-5">
+            <br>
+            <div class="container text-center" style="background-color: rgba(255,255,255,0.5); -moz-border-radius: 20px; border-radius: 20px;">
+                <h1>選課系統</h1><br>
+                <p><b></b></p>
+                <p><b></b></p>
+                <p><b></b></p>
+                <p><a class="btn btn-success btn-lg" href="https://d2.nctu.edu.tw/apply/" role="button">D2 信箱申請 &raquo; </a></p>
+            </div> 
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+</div>
+<div class="jumbotron" style="background-image: url(./asset/photo/home_top_bg.jpg); background-size: cover; margin-bottom: 0px">
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-3 text-center">
+            <br>
+            <img src="./asset/photo/" style="width: 100%;max-width: 300px"> 
+        </div>
+        <div class="col-md-5">
+            <br>
+            <div class="container text-center" style="background-color: rgba(255,255,255,0.5); -moz-border-radius: 20px; border-radius: 20px;">
+                <h1>交大卡和學聯會福利</h1><br>
+                <p><b></b></p>
+                <p><b></b></p>
+                <p><b></b></p>
+                <p><a class="btn btn-success btn-lg" href="https://d2.nctu.edu.tw/apply/" role="button">D2 信箱申請 &raquo; </a></p>
+            </div> 
         </div>
         <div class="col-md-2"></div>
     </div>
