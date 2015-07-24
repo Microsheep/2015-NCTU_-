@@ -41,14 +41,14 @@
                     }
                     if ($club[$i]["fb"]!=""){
                         echo "<td><a href=" . $club[$i]["fb"] . ">";
-                        echo "<span class=\"glyphicon glyphicon-education\" aria-hidden=\"true\">\t友會FB</a></td>";
+                        echo "<span class=\"glyphicon glyphicon-education\" aria-hidden=\"true\">\t社團FB</a></td>";
                     }
                     else{
                         echo "<td></td>";
                     } 
                     if ($club[$i]["web"]!=""){
                         echo "<td><a href=" . $club[$i]["web"] . ">";
-                        echo "<span class=\"glyphicon glyphicon-home\" aria-hidden=\"true\">\t友會網頁</span></a></td>";
+                        echo "<span class=\"glyphicon glyphicon-home\" aria-hidden=\"true\">\t社團網頁</span></a></td>";
                     }
                     else{
                         echo "<td></td>";
