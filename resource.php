@@ -1,21 +1,22 @@
 <?php
     include_once("./header.php");
 ?>
-<style>
-    body{
-        background-image: url(./asset/photo/home_top_bg.jpg);
-        background-size: cover;
-    }
-</style>
-<div class="jumbotron" style="background-color:transparent">
+<div class="jumbotron" style="background-image: url(./asset/photo/)">
     <div class="row">
         <div class="col-md-2"></div>
         <div class="col-md-5">
             <div class="container text-center">
-                <h1>如何申請D2郵箱？</h1><br>
-                <p><b>剛到了交大D2信箱是每個人都需要的必需品</b></p>
-                <a class="btn btn-success btn-lg" href="https://d2.nctu.edu.tw/apply/" role="button">辦D2帳號 &raquo; </a>
-                </p>
+                <h1>初入交大</h1><br>
+                <p><b>剛進交大，一定有許多事情不是那麼的了解</b></p>
+                <p><b>讓我們來一一的把它釐清</b></p><br>
+                <p><b>若還有任何問題</b></p>
+                <p><b>歡迎使用新生提問系統</b></p>
+                <p><b>或是直接利用下面的方式聯絡學聯會</b></p>
+                <p><div class="btn-group">
+                    <a class="btn btn-success btn-lg" href="https://www.facebook.com/NctuStUnion" role="button">學聯會 FB &raquo; </a>
+                    <a class="btn btn-success btn-lg" href="https://stunion.nctu.edu.tw/newcomerquestion" role="button">新生提問系統 &raquo; </a>
+                    <a class="btn btn-success btn-lg" href="mailto:stu.nctu@gmail.com" role="button">寄信給學聯會 &raquo; </a>
+                </div></p>
             </div>
         </div>
         <div class="col-md-3 text-center">
