@@ -15,7 +15,6 @@
 <![endif]-->
 <link href="./asset/micro.css" rel="stylesheet">
 <link href="./asset/bootstrap-social.css" rel="stylesheet">
-<link href="./asset/font/cwtexhei.css" rel="stylesheet">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 </head>
 <?php
