@@ -32,6 +32,26 @@
         <div class="col-md-2"></div>
         <div class="col-md-3 text-center">
             <br>
+            <img src="./asset/photo/re_home.png" style="width: 100%;max-width: 300px"> 
+        </div>
+        <div class="col-md-5">
+            <br>
+            <div class="container text-center" style="background-color: rgba(153,255,51,0.3); -moz-border-radius: 20px; border-radius: 20px;">
+                <h1>新生宿舍申請</h1><br>
+                <p><b></b></p>
+                <p><b></b></p>
+                <p><b></b></p>
+                <p><a class="btn btn-success btn-lg" href="http://dormapply2.adm.nctu.edu.tw/freshman/index.asp" role="button">新生宿舍申請 &raquo; </a></p>
+            </div> 
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+</div>
+<div class="jumbotron" style="margin-bottom: 0px">
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-3 text-center">
+            <br>
             <img src="./asset/photo/re_mail.png" style="width: 100%;max-width: 300px"> 
         </div>
         <div class="col-md-5">

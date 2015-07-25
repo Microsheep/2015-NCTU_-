@@ -59,6 +59,7 @@
             </tbody>
         </table>
         <h4 style="text-align:center">(註：該欄空白代表該社團並未提供該項資料。此表並非所有社團，僅為有提供資料之社團)</h4>
+        <h6 style="text-align:center">以上資料由各社團提供，並不代表學聯會立場</h6>
     </div>
     <div class="col-md-1">
     </div>
