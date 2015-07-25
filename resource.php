@@ -21,7 +21,7 @@
             </div>
         </div>
         <div class="col-md-3 text-center">
-            <br>
+            <br><br><br>
             <img src="./asset/photo/school1.png" style="width: 100%;max-width: 300px"> 
         </div>
         <div class="col-md-2"></div>
@@ -152,7 +152,9 @@
                 <p><b></b></p>
                 <p><b></b></p>
                 <p><div class="btn-group">
-                    <a class="btn btn-info btn-lg" href="http://www.ga.nctu.edu.tw/ga2/business6.php" role="button">交通訊息 &raquo; </a>
+                    <a class="btn btn-primary btn-lg" href="" role="button">公車 &raquo; </a>
+                    <a class="btn btn-info btn-lg" href="" role="button">客運 &raquo; </a>
+                    <a class="btn btn-success btn-lg" href="http://www.ga.nctu.edu.tw/ga2/business6.php" role="button">其他交通訊息 &raquo; </a>
                 </div></p>
             </div> 
         </div>
