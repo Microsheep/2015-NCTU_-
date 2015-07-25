@@ -39,6 +39,7 @@
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="./index.php">Home</a></li>
+                        <li class="active"><a href="./resource.php">初入交大</a></li>
                         <li class="dropdown active">
                             <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">學聯會新生包<span class="caret"></span></a>
                             <ul class="dropdown-menu">
@@ -60,9 +61,8 @@
                                 <li><a href="./download_region.php">友會</a></li>
                             </ul>
                         </li>
-                        <li class="active"><a href="./resource.php">初入交大</a></li>
-                        <li class="active"><a href="./map.php">交大新生地圖</a></li>
                         <li class="active"><a href="./download_club.php">社團資訊</a></li>
+                        <li class="active"><a href="./map.php">交大新生地圖</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li class="active"><a href=http://aadm.nctu.edu.tw/registra/freshman/freshman_a.html>交大新生入學指引網</a></li>
