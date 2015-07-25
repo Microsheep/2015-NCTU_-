@@ -4,6 +4,11 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="NCTU 網路新生包">
+<meta name="keywords" content="NCTU網路新生包,交大網路新生包,網路新生包,新生包,交大學聯會,NCTU,交大">
+<meta name="author" content="交通大學學聯會資訊部">
+<meta name="robots" content="index,follow">
+<link rel="shortcut icon" href="./asset/photo/logo.PNG">
 <title>網路新生包</title>
 <!-- Bootstrap -->
 <link href="./asset/bootstrap-3.3.4-dist/css/bootstrap.min.css" rel="stylesheet">
