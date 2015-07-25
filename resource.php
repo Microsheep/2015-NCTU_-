@@ -95,7 +95,7 @@
         <div class="col-md-2"></div>
         <div class="col-md-3 text-center">
             <br>
-            <img src="./asset/photo/teacher44.png" style="width: 100%;max-width: 300px"> 
+            <img src="./asset/photo/book40.png" style="width: 100%;max-width: 300px"> 
         </div>
         <div class="col-md-5">
             <br>
@@ -108,6 +108,51 @@
                     <a class="btn btn-success btn-lg" href="http://timetable.nctu.edu.tw/" role="button">課程時間表 &raquo; </a>
                     <a class="btn btn-danger btn-lg" href="https://course.nctu.edu.tw/" role="button">選課系統 &raquo; </a>
                     <a class="btn btn-primary btn-lg" href="http://plus.nctu.edu.tw/" role="button">NCTU+ 選課輔助系統 &raquo; </a>
+                </div></p>
+            </div> 
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+</div>
+<div class="jumbotron" style="margin-bottom: 0px">
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-3 text-center">
+            <br>
+            <img src="./asset/photo/teacher44.png" style="width: 100%;max-width: 300px"> 
+        </div>
+        <div class="col-md-5">
+            <br>
+            <div class="container text-center" style="background-color: rgba(153,255,51,0.3); -moz-border-radius: 20px; border-radius: 20px;">
+                <h1>英文學分抵免</h1><br>
+                <p><b></b></p>
+                <p><b></b></p>
+                <p><b></b></p>
+                <p><div class="btn-group">
+                    <a class="btn btn-warning btn-lg" href="http://ltrc.nctu.edu.tw/news_o.php?id=214" role="button">外語課程修習辦法 &raquo; </a>
+                    <a class="btn btn-danger btn-lg" href="http://ltrc.nctu.edu.tw/news_o.php?id=121" role="button">常見問題 Q&A &raquo; </a>
+                </div></p>
+            </div> 
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+</div>
+<div class="jumbotron" style="margin-bottom: 0px">
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-3 text-center">
+            <br>
+            <img src="./asset/photo/bus46.png" style="width: 100%;max-width: 300px"> 
+        </div>
+        <div class="col-md-5">
+            <br>
+            <div class="container text-center" style="background-color: rgba(153,255,51,0.3); -moz-border-radius: 20px; border-radius: 20px;">
+                <h1>新竹的交通工具</h1><br>
+                <p><b></b></p>
+                <p><b></b></p>
+                <p><b></b></p>
+                <p><div class="btn-group">
+                    <a class="btn btn-info btn-lg" href="http://www.ga.nctu.edu.tw/ga2/business6.php" role="button">交通訊息 &raquo; </a>
                 </div></p>
             </div> 
         </div>
