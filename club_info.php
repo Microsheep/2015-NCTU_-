@@ -11,7 +11,6 @@
                 <tr class="warning">
                     <td>編號</td>
                     <td>社團名稱</td>
-                    <td>圖片文宣</td>
                     <td>線上預覽</td>
                     <td>Download</td>
                     <td>社團 FB</td>
@@ -20,52 +19,51 @@
             </thead>
             <tbody>
                 <?php
-                for ($i = 1; $i <= $club_count; $i++) {
-                    if($i%2==1){
-                        echo "<tr class=\"success\">";
+                    if($_GET["id"]<=0||$_GET["id"]>$club_count){
+                        $id=0;
                     }
                     else{
-                        echo "<tr>";
-                    }    
-                    echo "<td>#" . $i . "</td>";
-                    echo "<td><a href=./club_info.php?id=" . $i . ">" . $club[$i]["name"] . " <i class=\"fa fa-share-square-o\"></i></a></td>";
-                    if ($club[$i]["photo"]!="0"){
-                        echo "<td><a href=./asset/info/" . $club[$i]["name"] . ".jpg data-lightbox=\"image-" . $i . "\" data-title=\"" . $club[$i]["name"] . "\">點此看圖</a></td>";
+                        $id=$_GET["id"];
                     }
-                    else{
-                        echo "<td></td>";
-                    }
-                    if ($club[$i]["pdf"]!="0"){
-                        echo "<td><a href=./pdf_view.php?id=" . $club[$i]["name"] . ">";
+                    echo "<tr class=\"success\">";
+                    echo "<td>#" . $_GET["id"] . "</td>";
+                    echo "<td>" . $club[$id]["name"] . "</td>";
+                    if ($club[$id]["pdf"]!="0"){
+                        echo "<td><a href=./pdf_view.php?id=" . $club[$id]["name"] . ">";
                         echo "<span class=\"glyphicon glyphicon-search\" aria-hidden=\"true\">\t預覽</span>";
                         echo "</a></td>";
-                        echo "<td><a href=./asset/info/" . $club[$i]["name"] . ".pdf>";
+                        echo "<td><a href=./asset/info/" . $club[$id]["name"] . ".pdf>";
                         echo "<span class=\"glyphicon glyphicon-download-alt\" aria-hidden=\"true\">\t下載</span>";
                         echo "</a></td>";
                     }
                     else{
                         echo "<td></td><td></td>";
                     }
-                    if ($club[$i]["fb"]!=""){
-                        echo "<td><a href=" . $club[$i]["fb"] . ">";
+                    if ($club[$id]["fb"]!=""){
+                        echo "<td><a href=" . $club[$id]["fb"] . ">";
                         echo "<span class=\"glyphicon glyphicon-education\" aria-hidden=\"true\">\t社團FB</a></td>";
                     }
                     else{
                         echo "<td></td>";
                     } 
-                    if ($club[$i]["web"]!=""){
-                        echo "<td><a href=" . $club[$i]["web"] . ">";
+                    if ($club[$id]["web"]!=""){
+                        echo "<td><a href=" . $club[$id]["web"] . ">";
                         echo "<span class=\"glyphicon glyphicon-home\" aria-hidden=\"true\">\t社團網頁</span></a></td>";
                     }
                     else{
                         echo "<td></td>";
                     }    
                     echo "</tr>";
-                }
             ?>
             </tbody>
         </table>
-        <h4 style="text-align:center">(註：該欄空白代表該社團並未提供該項資料。此表並非所有社團，僅為有提供資料之社團)</h4>
+        <?php
+            if($club[$id]["photo"]!="0"){
+                echo "<img src=./asset/info/" . $club[$id]["name"] . ".jpg style=\"width: 100%\">";
+            }
+        ?>
+        <br>
+        <h4 style="text-align:center">(註：該欄空白代表該社團並未提供該項資料)</h4>
         <h6 style="text-align:center">以上資料由各社團提供，並不代表學聯會立場</h6>
     </div>
     <div class="col-md-1">

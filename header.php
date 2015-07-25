@@ -21,6 +21,8 @@
 <link href="./asset/micro.css" rel="stylesheet">
 <link href="./asset/bootstrap-social.css" rel="stylesheet">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<!--Lightbox 2 from is used in this webpage. Lightbox2 is licensed under The MIT License. Created by [Lokesh Dhakar] (http://www.lokeshdhakar.com)-->
+<link href="./asset/lightbox2-master/dist/css/lightbox.css" rel="stylesheet">
 </head>
 <?php
     include_once("./data.php")
