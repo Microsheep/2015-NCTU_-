@@ -14,9 +14,9 @@
                 <p><b>歡迎使用新生提問系統</b></p>
                 <p><b>或是直接利用下面的方式聯絡學聯會</b></p>
                 <p><div class="btn-group">
-                    <a class="btn btn-success btn-lg" href="https://www.facebook.com/NctuStUnion" role="button">學聯會 FB &raquo; </a>
                     <a class="btn btn-success btn-lg" href="https://stunion.nctu.edu.tw/newcomerquestion" role="button">新生提問系統 &raquo; </a>
-                    <a class="btn btn-success btn-lg" href="mailto:stu.nctu@gmail.com" role="button">寄信給學聯會 &raquo; </a>
+                    <a class="btn btn-primary btn-lg" href="https://www.facebook.com/NctuStUnion" role="button">學聯會 FB &raquo; </a>
+                    <a class="btn btn-warning btn-lg" href="mailto:stu.nctu@gmail.com" role="button">寄信給學聯會 &raquo; </a>
                 </div></p>
             </div>
         </div>
@@ -61,7 +61,10 @@
                 <p><b></b></p>
                 <p><b></b></p>
                 <p><b></b></p>
-                <p><a class="btn btn-success btn-lg" href="https://d2.nctu.edu.tw/apply/" role="button">D2 信箱申請 &raquo; </a></p>
+                <p><div class="btn-group">
+                    <a class="btn btn-info btn-lg" href="http://www.it.nctu.edu.tw/itweb/modules/catalog_1/custom_NavigationLink/view.php?l_id=3" role="button">宿舍網路連線方法 &raquo; </a>
+                    <a class="btn btn-warning btn-lg" href="http://www.it.nctu.edu.tw/itweb/modules/catalog_1/custom_NavigationLink/view.php?l_id=2" role="button">校內無線網路 &raquo; </a>
+                </div></p>
             </div> 
         </div>
         <div class="col-md-2"></div>
@@ -81,7 +84,11 @@
                 <p><b></b></p>
                 <p><b></b></p>
                 <p><b></b></p>
-                <p><a class="btn btn-success btn-lg" href="https://d2.nctu.edu.tw/apply/" role="button">D2 信箱申請 &raquo; </a></p>
+                <p><div class="btn-group">
+                    <a class="btn btn-success btn-lg" href="http://timetable.nctu.edu.tw/" role="button">課程時間表 &raquo; </a>
+                    <a class="btn btn-danger btn-lg" href="https://course.nctu.edu.tw/" role="button">選課系統 &raquo; </a>
+                    <a class="btn btn-primary btn-lg" href="http://plus.nctu.edu.tw/" role="button">NCTU+ 選課輔助系統 &raquo; </a>
+                </div></p>
             </div> 
         </div>
         <div class="col-md-2"></div>
@@ -97,11 +104,14 @@
         <div class="col-md-5">
             <br>
             <div class="container text-center" style="background-color: rgba(153,255,51,0.3); -moz-border-radius: 20px; border-radius: 20px;">
-                <h1>交大卡和學聯會福利</h1><br>
+                <h1>交大卡和學聯會憑證福利</h1><br>
                 <p><b></b></p>
                 <p><b></b></p>
                 <p><b></b></p>
-                <p><a class="btn btn-success btn-lg" href="https://d2.nctu.edu.tw/apply/" role="button">D2 信箱申請 &raquo; </a></p>
+                <p><div class="btn-group">
+                    <a class="btn btn-danger btn-lg" href="https://stunion.nctu.edu.tw/2015newcomer/direct.php#9" role="button">交大卡 &raquo; </a>
+                    <a class="btn btn-info btn-lg" href="https://stunion.nctu.edu.tw/2015newcomer/direct.php#14" role="button">學聯會憑證 &raquo; </a>
+                </div></p>
             </div> 
         </div>
         <div class="col-md-2"></div>
