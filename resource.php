@@ -29,12 +29,12 @@
 </div>
 <div class="jumbotron" style="margin-bottom: 0px">
     <div class="row">
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
         <div class="col-md-3 text-center">
             <br>
             <img src="./asset/photo/configure.png" style="width: 100%;max-width: 300px"> 
         </div>
-        <div class="col-md-5">
+        <div class="col-md-7">
             <br>
             <div class="container text-center" style="background-color: rgba(153,255,51,0.3); -moz-border-radius: 20px; border-radius: 20px;">
                 <h1>新生的資料準備</h1><br>
@@ -47,17 +47,17 @@
                 </div></p>
             </div> 
         </div>
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
     </div>
 </div>
 <div class="jumbotron" style="margin-bottom: 0px">
     <div class="row">
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
         <div class="col-md-3 text-center">
             <br>
             <img src="./asset/photo/skeleton.png" style="width: 100%;max-width: 300px"> 
         </div>
-        <div class="col-md-5">
+        <div class="col-md-7">
             <br>
             <div class="container text-center" style="background-color: rgba(153,255,51,0.3); -moz-border-radius: 20px; border-radius: 20px;">
                 <h1>新生輔導、健康檢查</h1><br>
@@ -71,17 +71,17 @@
                 </div></p>
             </div> 
         </div>
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
     </div>
 </div>
 <div class="jumbotron" style="margin-bottom: 0px">
     <div class="row">
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
         <div class="col-md-3 text-center">
             <br>
             <img src="./asset/photo/soldier1.png" style="width: 100%;max-width: 300px"> 
         </div>
-        <div class="col-md-5">
+        <div class="col-md-7">
             <br>
             <div class="container text-center" style="background-color: rgba(153,255,51,0.3); -moz-border-radius: 20px; border-radius: 20px;">
                 <h1>兵役</h1><br>
@@ -94,17 +94,17 @@
                 </div></p>
             </div> 
         </div>
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
     </div>
 </div>
 <div class="jumbotron" style="margin-bottom: 0px">
     <div class="row">
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
         <div class="col-md-3 text-center">
             <br>
             <img src="./asset/photo/re_home.png" style="width: 100%;max-width: 300px"> 
         </div>
-        <div class="col-md-5">
+        <div class="col-md-7">
             <br>
             <div class="container text-center" style="background-color: rgba(153,255,51,0.3); -moz-border-radius: 20px; border-radius: 20px;">
                 <h1>新生宿舍申請</h1><br>
@@ -118,17 +118,17 @@
                 </div></p>
             </div> 
         </div>
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
     </div>
 </div>
 <div class="jumbotron" style="margin-bottom: 0px">
     <div class="row">
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
         <div class="col-md-3 text-center">
             <br>
             <img src="./asset/photo/re_mail.png" style="width: 100%;max-width: 300px"> 
         </div>
-        <div class="col-md-5">
+        <div class="col-md-7">
             <br>
             <div class="container text-center" style="background-color: rgba(153,255,51,0.3); -moz-border-radius: 20px; border-radius: 20px;">
                 <h1>申請D2帳號</h1><br>
@@ -138,17 +138,17 @@
                 <p><a class="btn btn-success btn-lg" href="https://d2.nctu.edu.tw/apply/" role="button">D2 信箱申請 &raquo; </a></p>
             </div> 
         </div>
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
     </div>
 </div>
 <div class="jumbotron" style="margin-bottom: 0px">
     <div class="row">
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
         <div class="col-md-3 text-center">
             <br>
             <img src="./asset/photo/re_web.png" style="width: 100%;max-width: 300px"> 
         </div>
-        <div class="col-md-5">
+        <div class="col-md-7">
             <br>
             <div class="container text-center" style="background-color: rgba(153,255,51,0.3); -moz-border-radius: 20px; border-radius: 20px;">
                 <h1>如何連接學校網路</h1><br>
@@ -161,17 +161,17 @@
                 </div></p>
             </div> 
         </div>
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
     </div>
 </div>
 <div class="jumbotron" style="margin-bottom: 0px">
     <div class="row">
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
         <div class="col-md-3 text-center">
             <br>
             <img src="./asset/photo/book40.png" style="width: 100%;max-width: 300px"> 
         </div>
-        <div class="col-md-5">
+        <div class="col-md-7">
             <br>
             <div class="container text-center" style="background-color: rgba(153,255,51,0.3); -moz-border-radius: 20px; border-radius: 20px;">
                 <h1>選課系統</h1><br>
@@ -188,17 +188,17 @@
                 </div></p>
             </div> 
         </div>
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
     </div>
 </div>
 <div class="jumbotron" style="margin-bottom: 0px">
     <div class="row">
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
         <div class="col-md-3 text-center">
             <br>
             <img src="./asset/photo/teacher44.png" style="width: 100%;max-width: 300px"> 
         </div>
-        <div class="col-md-5">
+        <div class="col-md-7">
             <br>
             <div class="container text-center" style="background-color: rgba(153,255,51,0.3); -moz-border-radius: 20px; border-radius: 20px;">
                 <h1>英文學分抵免</h1><br>
@@ -212,17 +212,17 @@
                 </div></p>
             </div> 
         </div>
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
     </div>
 </div>
 <div class="jumbotron" style="margin-bottom: 0px">
     <div class="row">
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
         <div class="col-md-3 text-center">
             <br>
             <img src="./asset/photo/bus46.png" style="width: 100%;max-width: 300px"> 
         </div>
-        <div class="col-md-5">
+        <div class="col-md-7">
             <br>
             <div class="container text-center" style="background-color: rgba(153,255,51,0.3); -moz-border-radius: 20px; border-radius: 20px;">
                 <h1>新竹的交通工具</h1><br>
@@ -236,17 +236,17 @@
                 </div></p>
             </div> 
         </div>
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
     </div>
 </div>
 <div class="jumbotron" style="margin-bottom: 0px">
     <div class="row">
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
         <div class="col-md-3 text-center">
             <br>
             <img src="./asset/photo/logo.PNG" style="width: 100%;max-width: 300px"> 
         </div>
-        <div class="col-md-5">
+        <div class="col-md-7">
             <br>
             <div class="container text-center" style="background-color: rgba(153,255,51,0.3); -moz-border-radius: 20px; border-radius: 20px;">
                 <h1>交大卡和學聯會憑證福利</h1><br>
@@ -259,7 +259,7 @@
                 </div></p>
             </div> 
         </div>
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
     </div>
 </div>
 
