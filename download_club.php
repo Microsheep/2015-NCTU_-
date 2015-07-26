@@ -10,7 +10,7 @@
             <thead>
                 <tr class="warning">
                     <td>編號</td>
-                    <td>社團名稱</td>
+                    <td>社團名稱 (社團頁面)</td>
                     <td>圖片文宣</td>
                     <td>線上預覽</td>
                     <td>Download</td>

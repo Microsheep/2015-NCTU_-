@@ -152,8 +152,8 @@
                 <p><b></b></p>
                 <p><b></b></p>
                 <p><div class="btn-group">
-                    <a class="btn btn-primary btn-lg" href="" role="button">公車 &raquo; </a>
-                    <a class="btn btn-info btn-lg" href="" role="button">客運 &raquo; </a>
+                    <a class="btn btn-primary btn-lg" href="./info_bus.php" role="button">公車 &raquo; </a>
+                    <a class="btn btn-info btn-lg" href="./info_longbus.php" role="button">客運 &raquo; </a>
                     <a class="btn btn-success btn-lg" href="http://www.ga.nctu.edu.tw/ga2/business6.php" role="button">其他交通訊息 &raquo; </a>
                 </div></p>
             </div> 
@@ -176,8 +176,8 @@
                 <p><b></b></p>
                 <p><b></b></p>
                 <p><div class="btn-group">
-                    <a class="btn btn-danger btn-lg" href="https://stunion.nctu.edu.tw/2015newcomer/direct.php#9" role="button">交大卡 &raquo; </a>
-                    <a class="btn btn-info btn-lg" href="https://stunion.nctu.edu.tw/2015newcomer/direct.php#14" role="button">學聯會憑證 &raquo; </a>
+                    <a class="btn btn-danger btn-lg" href="./direct.php#9" role="button">交大卡 &raquo; </a>
+                    <a class="btn btn-info btn-lg" href="./direct.php#14" role="button">學聯會憑證 &raquo; </a>
                 </div></p>
             </div> 
         </div>
