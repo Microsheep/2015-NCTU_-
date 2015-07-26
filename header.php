@@ -45,7 +45,6 @@
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="./index.php">Home</a></li>
                         <li class="active"><a href="./resource.php">初入交大</a></li>
                         <li class="dropdown active">
                             <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">學聯會新生包<span class="caret"></span></a>
