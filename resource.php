@@ -262,6 +262,73 @@
         <div class="col-md-1"></div>
     </div>
 </div>
+<div class="jumbotron" style="margin-bottom: 0px">
+    <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-10">
+            <div class="panel panel-success">
+                <div class="panel-heading"><h2>其它常見問題</h2></div>
+                <div class="panel-body">
+                    <div class="panel panel-warning">
+                        <div class="panel-heading">
+                            <h4>Q1. 什麼時候可以拿到正式學生證？</h4>
+                        </div>
+                        <div class="panel-body">
+                            <p>新生訓練體檢的時候，在這之前可以暫時以入學通知書代替學生證</p>
+                        </div>
+                    </div>
+                    <div class="panel panel-warning">
+                        <div class="panel-heading">
+                            <h4>Q2. 如果要寄東西來宿舍，地址應該要怎麼寫？</h4>
+                        </div>
+                        <div class="panel-body">
+                            <p>30010 新竹市大學路1001號國立交通大學學生X舍XXX室</p>
+                            <p>如果是平信，那麼會寄到每一樓宿舍的集中信箱</p>
+                            <p>如果是掛號，則會寄到中正堂文書組，要帶學生證去領</p>
+                            <p>如果是郵局包裹，會寄到管理員室，管理員會在你房門貼通知叫你去領。</p>
+                            <p>如果是宅配，會送到宿舍門口，要自己去簽領</p>
+                        </div>
+                    </div>
+                    <div class="panel panel-warning">
+                        <div class="panel-heading">
+                            <h4>Q3. 網購想用7-11門市取貨，哪一間靠近竹軒？</h4>
+                        </div>
+                        <div class="panel-body">
+                            <p>13舍7-11=交通門市</p>
+                            <p>二餐7-11=交大門市</p>
+                        </div>
+                    </div>
+                    <div class="panel panel-warning">
+                        <div class="panel-heading">
+                            <h4>Q4. 宿舍的抽屜有鎖嗎？</h4>
+                        </div>
+                        <div class="panel-body">
+                            <p>有扣環，買密碼鎖或是鑰匙鎖都可以，衣櫥也是</p>
+                        </div>
+                    </div>
+                    <div class="panel panel-warning">
+                        <div class="panel-heading">
+                            <h4>Q5. 腳踏車需要申請嗎？ 學校附近有沒有可以維修或是打氣的地方?？</h4>
+                        </div>
+                        <div class="panel-body">
+                            <p>不用申請，竹軒對面有打氣站</p>
+                            <p>修理腳踏車的話可以向機械系、單車社尋求協助，或是牽到清大夜市附近的腳踏車店</p>
+                        </div>
+                    </div>    
+                    <div class="panel panel-warning">
+                        <div class="panel-heading">
+                            <h4>Q6. [選課] 請問為什麼我在選課時間表上看系上的必修，卻有很多課都是同時段？</h4>
+                        </div>
+                        <div class="panel-body">
+                            <p>先修大一必修，其他可能是大二以上的課，建議到自己系上下載詳細的課程規畫表</p>
+                        </div>
+                    </div>
+                </div>            
+            </div>
+        </div>
+        <div class="col-md-1"></div>
+    </div>
+</div>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="./asset/bs-back-to-top.js"></script>
