@@ -179,7 +179,7 @@
                 <p><b>大一必修有哪些阿？ 要選哪些課阿？</b></p>
                 <p><b>哪個老師教的比較好？</b></p>
                 <p><b>NCTU+ 系統可以協助大家選課與排課，歡迎大家多多使用</b></p>
-                <p>註：NCTU+ 系統為選課輔助系統，正式選課請至選課系統網站進行選課</p>
+                <p>(註：NCTU+ 系統為選課輔助系統，正式選課請至選課系統網站進行選課)</p>
                 <p>
                     <a class="btn btn-warning btn-lg" href="http://aadm.nctu.edu.tw/registra/freshman/freshman_e.html" role="button">選課說明 &raquo; </a>
                     <a class="btn btn-success btn-lg" href="http://timetable.nctu.edu.tw/" role="button">課程時間表 &raquo; </a>
