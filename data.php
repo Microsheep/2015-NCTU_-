@@ -170,10 +170,19 @@
             "newcomer" => ""
         )
     ];
-	$region=[
+    $region=[
+        array(
+            "name" => "無此編號",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "",
+            "web" => "",
+            "newcomer" => ""
+        ),
 		array(
             "name" => "花蓮校友會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
@@ -181,6 +190,7 @@
 		array(
             "name" => "竹苗地區校友會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
@@ -188,6 +198,7 @@
 		array(
             "name" => "附中山校友會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
@@ -195,6 +206,7 @@
 		array(
             "name" => "蘭友會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
@@ -202,12 +214,14 @@
 		array(
             "name" => "彰化校友會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
         ),array(
             "name" => "台南地區校友會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
@@ -215,6 +229,7 @@
 		array(
             "name" => "中部校友會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
@@ -222,6 +237,7 @@
 		array(
             "name" => "高雄屏東校友會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
@@ -229,6 +245,7 @@
 		array(
             "name" => "金門校友會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
@@ -236,6 +253,7 @@
 		array(
             "name" => "武陵高中校友會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
@@ -243,6 +261,7 @@
 		array(
             "name" => "成功景美校友會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
@@ -250,6 +269,7 @@
 		array(
             "name" => "松山校友會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
@@ -257,6 +277,7 @@
 		array(
             "name" => "內湖高中校友會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
@@ -264,6 +285,7 @@
 		array(
             "name" => "嘉義雲林校友會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
@@ -271,6 +293,7 @@
 		array(
             "name" => "建中北一女校友會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
@@ -278,6 +301,7 @@
 		array(
             "name" => "中和高中校友會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
@@ -285,6 +309,7 @@
 		array(
             "name" => "北部校友會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
@@ -292,6 +317,7 @@
 		array(
             "name" => "澎湖校友會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
@@ -299,6 +325,7 @@
 		array(
             "name" => "桃園地區同鄉會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
@@ -306,6 +333,7 @@
 		array(
             "name" => "薇閣校友會",
             "pdf" => "0",
+            "photo" => "0",
             "fb" => "",
             "web" => "",
             "newcomer" => ""
