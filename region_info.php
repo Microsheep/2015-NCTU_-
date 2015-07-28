@@ -13,8 +13,9 @@
                     <td>友會名稱</td>
                     <td>線上預覽</td>
                     <td>Download</td>
-                    <td>社團 FB</td>
-                    <td>社團網頁</td>
+                    <td>108級新生FB社團</td>
+                    <td>友會 FB</td>
+                    <td>友會網頁</td>
                 </tr>
             </thead>
             <tbody>
@@ -39,16 +40,23 @@
                     else{
                         echo "<td></td><td></td>";
                     }
+                    if ($region[$i]["newcomer"]!=""){
+                        echo "<td><a class=\"btn btn-social btn-facebook\" href=\"" . $region[$i]["newcomer"] . "\">";
+                        echo "<i class=\"fa fa-facebook\"></i>新生社團：" . $region[$i]["name"] . "</a></td>";
+                    }
+                    else{
+                        echo "<td></td>";
+                    }
                     if ($region[$id]["fb"]!=""){
                         echo "<td><a href=" . $region[$id]["fb"] . ">";
-                        echo "<span class=\"glyphicon glyphicon-education\" aria-hidden=\"true\">\t社團FB</a></td>";
+                        echo "<span class=\"glyphicon glyphicon-education\" aria-hidden=\"true\">\t友會 FB</a></td>";
                     }
                     else{
                         echo "<td></td>";
                     } 
                     if ($region[$id]["web"]!=""){
                         echo "<td><a href=" . $region[$id]["web"] . ">";
-                        echo "<span class=\"glyphicon glyphicon-home\" aria-hidden=\"true\">\t社團網頁</span></a></td>";
+                        echo "<span class=\"glyphicon glyphicon-home\" aria-hidden=\"true\">\t友會網頁</span></a></td>";
                     }
                     else{
                         echo "<td></td>";

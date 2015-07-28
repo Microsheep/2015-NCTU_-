@@ -10,7 +10,8 @@
             <thead>
                 <tr class="warning">
                     <td>編號</td>
-                    <td>友會名稱</td>
+                    <td>友會名稱 (友會頁面)</td>
+                    <td>圖片文宣</td>
                     <td>線上預覽</td>
                     <td>Download</td>
                     <td>108級新生FB社團</td>
@@ -20,15 +21,21 @@
             </thead>
             <tbody>
                 <?php
-                for ($i = 0; $i < $region_count; $i++) {
+                for ($i = 1; $i <= $region_count; $i++) {
                     if($i%2==0){
                         echo "<tr class=\"success\">";
                     }
                     else{
                         echo "<tr>";
                     }    
-                    echo "<td>#" . ($i+1) . "</td>";
-                    echo "<td>" . $region[$i]["name"] . "</td>";
+                    echo "<td>#" . $i . "</td>";
+                    echo "<td><a href=./region_info.php?id=" . $i . ">" . $region[$i]["name"] . " <i class=\"fa fa-share-square-o\"></i></a></td>";
+                    if ($region[$i]["photo"]!="0"){
+                        echo "<td><a href=./asset/info/" . $region[$i]["name"] . ".jpg data-lightbox=\"image-" . $i . "\" data-title=\"" . $region[$i]["name"] . "\">點此看圖</a></td>";
+                    }
+                    else{
+                        echo "<td></td>";
+                    }
                     if ($region[$i]["pdf"]!="0"){
                         echo "<td><a href=./pdf_view.php?id=" . $region[$i]["name"] . "-友會新生通知>";
                         echo "<span class=\"glyphicon glyphicon-search\" aria-hidden=\"true\">\t預覽</span>";
