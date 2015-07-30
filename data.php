@@ -37,7 +37,7 @@
             "name" => "電機工程學系",
             "ref" => "dece",
             "pdf" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/pages/%E7%AC%AC%E5%9B%9B%E5%B1%86-%E4%BA%A4%E5%A4%A7%E9%9B%BB%E6%A9%9F%E7%B3%BB%E7%B3%BB%E5%AD%B8%E6%9C%83/1427829697481421",
             "web" => "",
             "newcomer" => "https://www.facebook.com/groups/NCTUECE108/"
         ),
@@ -61,7 +61,7 @@
             "name" => "材料科學與工程學系",
             "ref" => "mse",
             "pdf" => "1",
-            "fb" => "https://www.facebook.com/msenctu?fref=ts",
+            "fb" => "https://www.facebook.com/msenctu",
             "web" => "",
             "newcomer" => ""
         ),
@@ -93,7 +93,7 @@
             "name" => "應用化學系",
             "ref" => "ac",
             "pdf" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/nctuamsa04",
             "web" => "",
             "newcomer" => "http://www.facebook.com/groups/897179183676350"
         ),
@@ -117,7 +117,7 @@
             "name" => "資訊管理與財務金融學系",
             "ref" => "imf",
             "pdf" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/NCTUIMF",
             "web" => "",
             "newcomer" => "https://www.facebook.com/groups/NCTU.IMF08/"
         ),
@@ -125,7 +125,7 @@
             "name" => "管理科學系",
             "ref" => "ms",
             "pdf" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/NCTU.MS",
             "web" => "https://sites.google.com/a/ms.nctu.edu.tw/msstudent/home",
             "newcomer" => ""
         ),
@@ -133,7 +133,7 @@
             "name" => "運輸與物流管理學系",
             "ref" => "tlm",
             "pdf" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/NCTUTTM",
             "web" => "",
             "newcomer" => ""
         ),
@@ -141,7 +141,7 @@
             "name" => "工業工程與管理學系",
             "ref" => "iem",
             "pdf" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/IEMhome",
             "web" => "",
             "newcomer" => "https://www.facebook.com/groups/943955008961081/"
         ),
@@ -165,7 +165,7 @@
             "name" => "人文社會學系",
             "ref" => "hs",
             "pdf" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/pages/%E4%BA%A4%E5%A4%A7%E4%BA%BA%E7%A4%BE%E7%B3%BB%E7%B3%BB%E5%AD%B8%E6%9C%83/370527856323364",
             "web" => "",
             "newcomer" => "https://www.facebook.com/groups/654514784683998/"
         )
