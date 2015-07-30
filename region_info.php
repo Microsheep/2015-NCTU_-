@@ -30,10 +30,10 @@
                     echo "<td>#" . $_GET["id"] . "</td>";
                     echo "<td>" . $region[$id]["name"] . "</td>";
                     if ($region[$id]["pdf"]!="0"){
-                        echo "<td><a href=./pdf_view.php?id=" . $region[$id]["name"] . ">";
+                        echo "<td><a href=./pdf_view.php?id=" . $region[$id]["name"] . "-友會新生通知>";
                         echo "<span class=\"glyphicon glyphicon-search\" aria-hidden=\"true\">\t預覽</span>";
                         echo "</a></td>";
-                        echo "<td><a href=./asset/info/" . $region[$id]["name"] . ".pdf>";
+                        echo "<td><a href=./asset/info/" . $region[$id]["name"] . "-友會新生通知.pdf>";
                         echo "<span class=\"glyphicon glyphicon-download-alt\" aria-hidden=\"true\">\t下載</span>";
                         echo "</a></td>";
                     }
