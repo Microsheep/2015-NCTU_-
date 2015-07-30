@@ -13,6 +13,7 @@
                     <td>友會名稱</td>
                     <td>線上預覽</td>
                     <td>Download</td>
+                    <td>108級新生FB社團</td>
                     <td>友會 FB</td>
                     <td>友會網頁</td>
                 </tr>
@@ -38,6 +39,13 @@
                     }
                     else{
                         echo "<td></td><td></td>";
+                    }
+                    if ($region[$i]["newcomer"]!=""){
+                        echo "<td><a class=\"btn btn-social btn-facebook\" href=\"" . $region[$i]["newcomer"] . "\">";
+                        echo "<i class=\"fa fa-facebook\"></i>新生社團：" . $region[$i]["name"] . "</a></td>";
+                    }
+                    else{
+                        echo "<td></td>";
                     }
                     if ($region[$id]["fb"]!=""){
                         echo "<td><a href=" . $region[$id]["fb"] . ">";
