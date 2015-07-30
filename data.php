@@ -45,7 +45,7 @@
             "name" => "光電工程學系",
             "ref" => "ieo",
             "pdf" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/pages/%E4%BA%A4%E5%A4%A7%E5%85%89%E9%9B%BBNCTU_EO/201908786557647",
             "web" => "",
             "newcomer" => "https://www.facebook.com/groups/882727861774113/"
         ),
@@ -69,7 +69,7 @@
             "name" => "機械工程學系",
             "ref" => "me",
             "pdf" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/NCTUME",
             "web" => "",
             "newcomer" => "https://www.facebook.com/groups/1576860995907292/"
         ),
@@ -85,7 +85,7 @@
             "name" => "電子物理學系",
             "ref" => "ep",
             "pdf" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/NCTU.epstudentorganization",
             "web" => "",
             "newcomer" => "https://www.facebook.com/groups/1589602441288039/"
         ),
@@ -101,7 +101,7 @@
             "name" => "應用數學系",
             "ref" => "math",
             "pdf" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/nctuamsa04",
             "web" => "",
             "newcomer" => "https://www.facebook.com/groups/1416411995347629/"
         ),
@@ -126,7 +126,7 @@
             "ref" => "ms",
             "pdf" => "0",
             "fb" => "",
-            "web" => "",
+            "web" => "https://sites.google.com/a/ms.nctu.edu.tw/msstudent/home",
             "newcomer" => ""
         ),
 		array(
@@ -149,7 +149,7 @@
             "name" => "外國語文學系",
             "ref" => "fl",
             "pdf" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/NCTUFL",
             "web" => "",
             "newcomer" => ""
         ),
