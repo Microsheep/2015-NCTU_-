@@ -60,8 +60,8 @@
 		array(
             "name" => "材料科學與工程學系",
             "ref" => "mse",
-            "pdf" => "0",
-            "fb" => "",
+            "pdf" => "1",
+            "fb" => "https://www.facebook.com/msenctu?fref=ts",
             "web" => "",
             "newcomer" => ""
         ),
@@ -167,7 +167,7 @@
             "pdf" => "0",
             "fb" => "",
             "web" => "",
-            "newcomer" => ""
+            "newcomer" => "https://www.facebook.com/groups/654514784683998/"
         )
     ];
     $region=[
@@ -189,7 +189,7 @@
         ),
 		array(
             "name" => "竹苗地區校友會",
-            "pdf" => "0",
+            "pdf" => "1",
             "photo" => "0",
             "fb" => "",
             "web" => "",
@@ -236,7 +236,7 @@
         ),
 		array(
             "name" => "高雄屏東校友會",
-            "pdf" => "0",
+            "pdf" => "1",
             "photo" => "0",
             "fb" => "",
             "web" => "",
@@ -292,7 +292,7 @@
         ),
 		array(
             "name" => "建中北一女校友會",
-            "pdf" => "0",
+            "pdf" => "1",
             "photo" => "0",
             "fb" => "",
             "web" => "",
@@ -324,7 +324,7 @@
         ),
 		array(
             "name" => "桃園地區同鄉會",
-            "pdf" => "0",
+            "pdf" => "1",
             "photo" => "0",
             "fb" => "",
             "web" => "",
