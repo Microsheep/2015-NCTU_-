@@ -216,7 +216,7 @@
             "name" => "台南地區校友會",
             "pdf" => "0",
             "photo" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/NCTU.TN",
             "web" => "",
         ),
 		array(
@@ -327,9 +327,9 @@
             "web" => ""
         ),
         array(
-            "name" => "我是一個社團",
+            "name" => "模擬聯合國社",
             "pdf" => "1",
-            "photo" => "1",
+            "photo" => "0",
             "fb" => "",
             "web" => ""
         ),
