@@ -164,7 +164,7 @@
 		array(
             "name" => "人文社會學系",
             "ref" => "hs",
-            "pdf" => "0",
+            "pdf" => "1",
             "fb" => "https://www.facebook.com/pages/%E4%BA%A4%E5%A4%A7%E4%BA%BA%E7%A4%BE%E7%B3%BB%E7%B3%BB%E5%AD%B8%E6%9C%83/370527856323364",
             "web" => "",
             "newcomer" => "https://www.facebook.com/groups/654514784683998/"
