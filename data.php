@@ -76,7 +76,7 @@
 		array(
             "name" => "土木工程學系",
             "ref" => "cv",
-            "pdf" => "0",
+            "pdf" => "1",
             "fb" => "",
             "web" => "",
             "newcomer" => "https://www.facebook.com/groups/NCTUCE/"
