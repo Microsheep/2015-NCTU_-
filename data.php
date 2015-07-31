@@ -189,11 +189,11 @@
         ),
 		array(
             "name" => "台南地區校友會(南友會)",
-            "pdf" => "0",
-            "photo" => "0",
+            "pdf" => "1",
+            "photo" => "1",
             "fb" => "https://www.facebook.com/NCTU.TN",
             "web" => "",
-			"newcomer" => ""
+			"newcomer" => "https://www.facebook.com/groups/151392628256105/"
         ),
 		array(
             "name" => "嘉義雲林校友會(雲嘉會)",
