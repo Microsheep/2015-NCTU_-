@@ -40,9 +40,9 @@
                     else{
                         echo "<td></td><td></td>";
                     }
-                    if ($region[$i]["newcomer"]!=""){
-                        echo "<td><a class=\"btn btn-social btn-facebook\" href=\"" . $region[$i]["newcomer"] . "\">";
-                        echo "<i class=\"fa fa-facebook\"></i>新生社團：" . $region[$i]["name"] . "</a></td>";
+                    if ($region[$id]["newcomer"]!=""){
+                        echo "<td><a class=\"btn btn-social btn-facebook\" href=\"" . $region[$id]["newcomer"] . "\">";
+                        echo "<i class=\"fa fa-facebook\"></i>新生社團：" . $region[$id]["name"] . "</a></td>";
                     }
                     else{
                         echo "<td></td>";
