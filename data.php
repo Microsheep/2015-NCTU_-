@@ -359,7 +359,7 @@
             "name" => "柔道社",
             "pdf" => "1",
             "photo" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/groups/NCTUJUDO",
             "web" => ""
         ),
 		array(
