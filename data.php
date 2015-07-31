@@ -132,7 +132,7 @@
 		array(
             "name" => "運輸與物流管理學系",
             "ref" => "tlm",
-            "pdf" => "0",
+            "pdf" => "1",
             "fb" => "https://www.facebook.com/NCTUTTM",
             "web" => "",
             "newcomer" => ""
