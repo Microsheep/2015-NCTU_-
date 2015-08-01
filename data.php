@@ -7,7 +7,7 @@
     $page_name=["歡迎小卡","新生地圖","學聯會介紹","學聯會徵才","重要時程","生活資訊","小七團購P1","小七團購P2","特約商店P1","特約商店P2","計算機團購","檯燈團購","行動電源團購","學聯會費繳費事項"];
     $school_count=20;
     $region_count=20;
-    $club_count=2;
+    $club_count=4;
     $school=[
         array(
             "name" => "電機資訊學士班",
@@ -360,6 +360,41 @@
             "pdf" => "1",
             "photo" => "0",
             "fb" => "https://www.facebook.com/groups/NCTUJUDO",
+            "web" => ""
+        ),
+        array(
+            "name" => "烏克麗麗社",
+            "pdf" => "1",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/NCTUXNTHUUkuleleClub?fref=nf&pnref=story",
+            "web" => "https://www.facebook.com/groups/327026434028600/"
+        ),
+        array(
+            "name" => "AIESEC",
+            "pdf" => "1",
+            "photo" => "0",
+            "fb" => "",
+            "web" => ""
+        ),
+        array(
+            "name" => "",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "",
+            "web" => ""
+        ),
+        array(
+            "name" => "",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "",
+            "web" => ""
+        ),
+        array(
+            "name" => "",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "",
             "web" => ""
         ),
 		array(
