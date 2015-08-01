@@ -148,7 +148,7 @@
 		array(
             "name" => "外國語文學系",
             "ref" => "fl",
-            "pdf" => "0",
+            "pdf" => "1",
             "fb" => "https://www.facebook.com/NCTUFL",
             "web" => "",
             "newcomer" => ""
