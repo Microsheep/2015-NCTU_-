@@ -197,11 +197,11 @@
         ),
 		array(
             "name" => "嘉義雲林校友會(雲嘉會)",
-            "pdf" => "0",
-            "photo" => "0",
+            "pdf" => "1",
+            "photo" => "1",
             "fb" => "",
             "web" => "",
-			"newcomer" => ""
+			"newcomer" => "https://www.facebook.com/groups/NctuYunChia08s/?ref=bookmarks"
         ),
 		array(
             "name" => "中部校友會(中友會)",
