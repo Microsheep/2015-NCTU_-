@@ -151,7 +151,7 @@
             "pdf" => "1",
             "fb" => "https://www.facebook.com/NCTUFL",
             "web" => "",
-            "newcomer" => ""
+            "newcomer" => "https://www.facebook.com/groups/589853544487416/"
         ),
 		array(
             "name" => "傳播與科技學系",
