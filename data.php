@@ -92,7 +92,7 @@
 		array(
             "name" => "應用化學系",
             "ref" => "ac",
-            "pdf" => "0",
+            "pdf" => "1",
             "fb" => "https://www.facebook.com/nctuac105?ref=aymt_homepage_panel",
             "web" => "",
             "newcomer" => "http://www.facebook.com/groups/897179183676350"
