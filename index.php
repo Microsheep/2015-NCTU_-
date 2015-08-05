@@ -1,12 +1,19 @@
 <?php
     include_once("./header.php");
 ?>
-<style>
-    body{
-        background-image: url(./asset/photo/home_top_bg.jpg);
-        background-size: cover;
-    }
-</style>
+
+<ul class="bg-slideshow">
+    <li>
+        <span></span>
+    </li>
+    <li>
+        <span></span>
+    </li>
+    <li>
+        <span></span>
+    </li>
+</ul>
+
 <div class="jumbotron" style="background-color:transparent">
     <div class="row">
         <div class="col-md-2"></div>
@@ -40,3 +47,4 @@
 <?php
     include_once("footer.php");
 ?>
+
