@@ -14,7 +14,7 @@
                 <p><b>歡迎使用新生提問系統</b></p>
                 <p><b>或是直接利用下面的方式聯絡學聯會</b></p>
                 <p>
-                    <a class="btn btn-success btn-lg" href="https://stunion.nctu.edu.tw/newcomerquestion" role="button">新生提問系統 &raquo; </a>
+                    <a class="btn btn-success btn-lg" href="https://stunion.nctu.edu.tw/question" role="button">新生提問系統 &raquo; </a>
                     <a class="btn btn-primary btn-lg" href="https://www.facebook.com/NctuStUnion" role="button">學聯會 FB &raquo; </a>
                     <a class="btn btn-warning btn-lg" href="mailto:stu.nctu@gmail.com" title="stu.nctu@gmail.com" role="button">寄信給學聯會 &raquo; </a>
                 </p>
