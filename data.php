@@ -93,7 +93,7 @@
             "name" => "應用化學系",
             "ref" => "ac",
             "pdf" => "0",
-            "fb" => "https://www.facebook.com/nctuamsa04",
+            "fb" => "",
             "web" => "",
             "newcomer" => "http://www.facebook.com/groups/897179183676350"
         ),
