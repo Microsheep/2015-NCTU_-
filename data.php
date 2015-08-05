@@ -373,7 +373,7 @@
             "name" => "AIESEC",
             "pdf" => "1",
             "photo" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/AIESECNCTU",
             "web" => ""
         ),
         array(
