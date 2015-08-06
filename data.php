@@ -100,7 +100,7 @@
 		array(
             "name" => "應用數學系",
             "ref" => "math",
-            "pdf" => "0",
+            "pdf" => "1",
             "fb" => "https://www.facebook.com/nctuamsa04",
             "web" => "",
             "newcomer" => "https://www.facebook.com/groups/1416411995347629/"
