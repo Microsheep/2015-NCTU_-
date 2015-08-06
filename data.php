@@ -185,7 +185,7 @@
             "photo" => "1",
             "fb" => "",
             "web" => "",
-			"newcomer" => ""
+			"newcomer" => "https://www.facebook.com/groups/113706852307269/"
         ),
 		array(
             "name" => "台南地區校友會(南友會)",
