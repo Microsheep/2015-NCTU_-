@@ -63,7 +63,7 @@
             "pdf" => "1",
             "fb" => "https://www.facebook.com/msenctu",
             "web" => "",
-            "newcomer" => ""
+            "newcomer" => "https://www.facebook.com/groups/858810210833683/"
         ),
 		array(
             "name" => "機械工程學系",
