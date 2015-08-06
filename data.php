@@ -249,7 +249,7 @@
             "photo" => "0",
             "fb" => "",
             "web" => "",
-			"newcomer" => ""
+			"newcomer" => "https://www.facebook.com/groups/1627966557420363/"
         ),
 		array(
             "name" => "附中山校友會",
