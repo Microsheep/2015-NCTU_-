@@ -6,6 +6,7 @@
     <div class="col-md-1">
     </div>
     <div class="col-md-10">
+        <div class="alert alert-danger" role="alert">多數社團會於8月中旬放出社團訊息，故此區的資料目前尚不完整</div>
         <table class="table table-hover table-bordered table-condensed">
             <thead>
                 <tr class="warning">
