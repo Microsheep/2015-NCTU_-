@@ -12,10 +12,10 @@
         array(
             "name" => "電機資訊學士班",
             "ref" => "eecshp",
-            "pdf" => "0",
-            "fb" => "",
+            "pdf" => "1",
+            "fb" => "https://www.facebook.com/nctu.eecs",
             "web" => "",
-            "newcomer" => ""
+            "newcomer" => "https://www.facebook.com/groups/1571118789823572/"
         ),
         array(
             "name" => "奈米科學及工程學士學位學程",
