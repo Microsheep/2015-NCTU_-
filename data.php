@@ -127,7 +127,7 @@
             "pdf" => "0",
             "fb" => "https://www.facebook.com/NCTU.MS",
             "web" => "https://sites.google.com/a/ms.nctu.edu.tw/msstudent/home",
-            "newcomer" => ""
+            "newcomer" => "https://www.facebook.com/groups/920804484654075/"
         ),
 		array(
             "name" => "運輸與物流管理學系",
@@ -159,7 +159,7 @@
             "pdf" => "0",
             "fb" => "",
             "web" => "",
-            "newcomer" => ""
+            "newcomer" => "https://www.facebook.com/groups/812464758844298"
         ),
 		array(
             "name" => "人文社會學系",
