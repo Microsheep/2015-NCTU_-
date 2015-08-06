@@ -20,7 +20,7 @@
         array(
             "name" => "奈米科學及工程學士學位學程",
             "ref" => "nano",
-            "pdf" => "0",
+            "pdf" => "1",
             "fb" => "",
             "web" => "http://nanostu.weebly.com/",
             "newcomer" => "https://www.facebook.com/groups/979186498792921/"
