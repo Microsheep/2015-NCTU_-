@@ -2,17 +2,12 @@
     include_once("./header.php");
 ?>
 
-<ul class="bg-slideshow">
-    <li>
-        <span></span>
-    </li>
-    <li>
-        <span></span>
-    </li>
-    <li>
-        <span></span>
-    </li>
-</ul>
+<style>
+    body {
+        background-image: url(./asset/photo/home_top_bg.jpg);
+        background-size: cover;
+    }
+</style>
 
 <div class="jumbotron" style="background-color:transparent">
     <div class="row">
