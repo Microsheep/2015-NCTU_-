@@ -28,7 +28,7 @@
         array(
             "name" => "電子工程學系",
             "ref" => "ee",
-            "pdf" => "0",
+            "pdf" => "1",
             "fb" => "",
             "web" => "",
             "newcomer" => "https://www.facebook.com/groups/452945314853615/"
