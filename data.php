@@ -217,7 +217,7 @@
             "photo" => "1",
             "fb" => "",
             "web" => "",
-			"newcomer" => ""
+			"newcomer" => "https://www.facebook.com/groups/832059893497596/"
         ),
 		array(
             "name" => "武陵高中校友會(武友會)",
@@ -225,7 +225,7 @@
             "photo" => "1",
             "fb" => "",
             "web" => "",
-			"newcomer" => ""
+			"newcomer" => "https://www.facebook.com/groups/496795693807577/"
         ),
 		array(
             "name" => "桃園地區同鄉會(桃友會)",
@@ -233,7 +233,7 @@
             "photo" => "1",
             "fb" => "",
             "web" => "",
-			"newcomer" => ""
+			"newcomer" => "https://www.facebook.com/groups/496795693807577/"
         ),
 		array(
             "name" => "建中北一女校友會(建北會)",
