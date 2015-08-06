@@ -116,7 +116,7 @@
 		array(
             "name" => "資訊管理與財務金融學系",
             "ref" => "imf",
-            "pdf" => "0",
+            "pdf" => "1",
             "fb" => "https://www.facebook.com/NCTUIMF",
             "web" => "",
             "newcomer" => "https://www.facebook.com/groups/NCTU.IMF08/"
