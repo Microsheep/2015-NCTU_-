@@ -52,7 +52,7 @@
 		array(
             "name" => "資訊工程學系",
             "ref" => "cs",
-            "pdf" => "0",
+            "pdf" => "1",
             "fb" => "https://www.facebook.com/pages/%E4%BA%A4%E5%A4%A7%E8%B3%87%E5%B7%A5%E7%B3%BB%E5%AD%B8%E6%9C%83/177647505627076",
             "web" => "http://www.nctucs.tw/",
             "newcomer" => "https://www.facebook.com/groups/nctucs108/"
