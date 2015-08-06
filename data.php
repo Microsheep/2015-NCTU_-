@@ -247,8 +247,8 @@
             "name" => "北部校友會(北友會)",
             "pdf" => "0",
             "photo" => "0",
-            "fb" => "",
-            "web" => "",
+            "fb" => "https://www.facebook.com/NCTUBYsummercamp.alwaysbewithyou",
+            "web" => "http://hsuan8546.wix.com/2015nctubeiyoucamp",
 			"newcomer" => "https://www.facebook.com/groups/1627966557420363/"
         ),
 		array(
