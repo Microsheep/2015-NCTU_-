@@ -22,8 +22,8 @@
             "ref" => "nano",
             "pdf" => "0",
             "fb" => "",
-            "web" => "",
-            "newcomer" => ""
+            "web" => "http://nanostu.weebly.com/",
+            "newcomer" => "https://www.facebook.com/groups/979186498792921/"
         ),
         array(
             "name" => "電子工程學系",
