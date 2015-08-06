@@ -241,7 +241,7 @@
             "photo" => "1",
             "fb" => "",
             "web" => "",
-			"newcomer" => ""
+			"newcomer" => "https://www.facebook.com/groups/461459814024127/"
         ),
 		array(
             "name" => "北部校友會(北友會)",
