@@ -62,6 +62,8 @@
                         <li class="dropdown active">
                             <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">新生通知<span class="caret"></span></a>
                             <ul class="dropdown-menu">
+                                <li><a href="./pdf_view.php?id=104年學士班新生入學指引">新生入學指引</a></li>
+                                <li role="separator" class="divider"></li>
                                 <li><a href="./download_school.php">系學會</a></li>
                                 <li role="separator" class="divider"></li>
                                 <li><a href="./download_region.php">友會</a></li>
