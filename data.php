@@ -124,7 +124,7 @@
 		array(
             "name" => "管理科學系",
             "ref" => "ms",
-            "pdf" => "0",
+            "pdf" => "1",
             "fb" => "https://www.facebook.com/NCTU.MS",
             "web" => "https://sites.google.com/a/ms.nctu.edu.tw/msstudent/home",
             "newcomer" => "https://www.facebook.com/groups/920804484654075/"
