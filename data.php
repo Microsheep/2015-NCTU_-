@@ -108,8 +108,8 @@
 		array(
             "name" => "生物科技學系",
             "ref" => "life",
-            "pdf" => "0",
-            "fb" => "",
+            "pdf" => "1",
+            "fb" => "https://www.facebook.com/NCTUDBTassociation",
             "web" => "",
             "newcomer" => "https://www.facebook.com/groups/299182023539468/"
         ),
