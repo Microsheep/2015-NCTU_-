@@ -44,7 +44,7 @@
 		array(
             "name" => "光電工程學系",
             "ref" => "ieo",
-            "pdf" => "0",
+            "pdf" => "1",
             "fb" => "https://www.facebook.com/pages/%E4%BA%A4%E5%A4%A7%E5%85%89%E9%9B%BBNCTU_EO/201908786557647",
             "web" => "",
             "newcomer" => "https://www.facebook.com/groups/882727861774113/"
