@@ -31,7 +31,6 @@
 <?php
     include_once("./asset/analyticstracking.php")
 ?>
-<div style="visibility: hidden"><h1>交大新生看過來</h1><p>交大新生包網路版，各種新生須知！</p></div>
 <!--Navbar-->
         <nav class="navbar navbar-inverse navbar-static-top" role="navigation" style="margin-bottom: 0px">
             <div class="container">
