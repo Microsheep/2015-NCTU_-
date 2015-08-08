@@ -135,7 +135,7 @@
             "pdf" => "1",
             "fb" => "https://www.facebook.com/NCTUTTM",
             "web" => "",
-            "newcomer" => ""
+            "newcomer" => "https://www.facebook.com/groups/699318900174775/"
         ),
 		array(
             "name" => "工業工程與管理學系",
