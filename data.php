@@ -140,7 +140,7 @@
 		array(
             "name" => "工業工程與管理學系",
             "ref" => "iem",
-            "pdf" => "0",
+            "pdf" => "1",
             "fb" => "https://www.facebook.com/IEMhome",
             "web" => "",
             "newcomer" => "https://www.facebook.com/groups/943955008961081/"
