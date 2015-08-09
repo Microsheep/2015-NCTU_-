@@ -7,7 +7,7 @@
     $page_name=["歡迎小卡","新生地圖","學聯會介紹","學聯會徵才","重要時程","生活資訊","小七團購P1","小七團購P2","特約商店P1","特約商店P2","計算機團購","檯燈團購","行動電源團購","學聯會費繳費事項"];
     $school_count=20;
     $region_count=20;
-    $club_count=4;
+    $club_count=5;
     $school=[
         array(
             "name" => "電機資訊學士班",
@@ -377,10 +377,10 @@
             "web" => ""
         ),
         array(
-            "name" => "",
-            "pdf" => "0",
+            "name" => "吉他社",
+            "pdf" => "1",
             "photo" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/pages/%E4%BA%A4%E5%A4%A7%E5%90%89%E4%BB%96%E7%A4%BE/138414562871595",
             "web" => ""
         ),
         array(
