@@ -45,7 +45,14 @@
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="./resource.php">初入交大</a></li>
+                        <li class="dropdown active">
+                            <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">新生必看<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./resource.php">初入交大</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="./QA_list.php">精選問答集</a></li>
+                            </ul>
+                        </li>
                         <li class="dropdown active">
                             <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">學聯會新生包<span class="caret"></span></a>
                             <ul class="dropdown-menu">
