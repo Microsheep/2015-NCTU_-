@@ -1,11 +1,6 @@
 <?php
 include_once("./header.php");
 ?>
-<style>
-    body{
-        background-color: #F0FFF0;
-    }
-</style>
 <br>
 <div class="row">
     <div class="col-md-1">
@@ -16,7 +11,7 @@ include_once("./header.php");
         <?php
             for ($i = 1; $i <= $QA_count; $i++) {
                 if($i%2==1){
-                    echo "<h4><a href=\"./QA.php?id=$i\" class=\"list-group-item list-group-item-danger\">" . $QA[$i]["head"] . "</a></h4>";
+                    echo "<h4><a href=\"./QA.php?id=$i\" class=\"list-group-item list-group-item-warning\">" . $QA[$i]["head"] . "</a></h4>";
                 }
                 else{
                     echo "<a href=\"./QA.php?id=$i\" class=\"list-group-item list-group-item-info\">" . $QA[$i]["head"] . "</a>";
