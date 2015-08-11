@@ -3,7 +3,9 @@
     global $region_count,$region;
     global $club_count,$club;
     global $page_count,$page_name;
-	$page_count=14;
+    global $QA_count,$QA;
+    
+    $page_count=14;
     $page_name=["歡迎小卡","新生地圖","學聯會介紹","學聯會徵才","重要時程","生活資訊","小七團購P1","小七團購P2","特約商店P1","特約商店P2","計算機團購","檯燈團購","行動電源團購","學聯會費繳費事項"];
     $school_count=20;
     $region_count=20;
