@@ -14,7 +14,7 @@ include_once("./header.php");
                     echo "<h4><a href=\"./QA.php?id=$i\" class=\"list-group-item list-group-item-warning\">" . $QA[$i]["head"] . "</a></h4>";
                 }
                 else{
-                    echo "<a href=\"./QA.php?id=$i\" class=\"list-group-item list-group-item-info\">" . $QA[$i]["head"] . "</a>";
+                    echo "<h4><a href=\"./QA.php?id=$i\" class=\"list-group-item list-group-item-info\">" . $QA[$i]["head"] . "</a></h4>";
                 }
             }
         ?>
