@@ -32,7 +32,7 @@
                     if($id>1 && $id<=($QA_count)){
                         echo "<li class=\"previous\"><a href=\"./QA.php?id=" . ($id-1) . "\"><span aria-hidden=\"true\">&larr;</span>上一篇精選問題</a></li>";
                     }
-                    echo "<h4><a href=\"./QA_list.php\" class=\"btn btn-primary\">回到精選問題列表</a></h4>";
+                    echo "<li class=\"center\"><a href=\"./QA_list.php\">回到精選問題列表</a></li>";
                     if($id>0 && $id<=($QA_count-1)){
                         echo "<li class=\"next\"><a href=\"./QA.php?id=" . ($id+1) . "\">下一篇<span aria-hidden=\"true\">&rarr;</span></a></li>";
                     }
