@@ -294,8 +294,8 @@
                             <h4>Q3. 網購想用7-11門市取貨，哪一間靠近竹軒？</h4>
                         </div>
                         <div class="panel-body">
-                            <p>13舍7-11=交通門市</p>
                             <p>二餐7-11=交大門市</p>
+                            <p>13舍7-11=交通門市 (已成為歷史，八月開始改為全家)</p>
                         </div>
                     </div>
                     <div class="panel panel-warning">
