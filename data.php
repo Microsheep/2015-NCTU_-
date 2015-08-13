@@ -355,8 +355,8 @@
             "name" => "模擬聯合國社",
             "pdf" => "1",
             "photo" => "0",
-            "fb" => "",
-            "web" => ""
+            "fb" => "https://www.facebook.com/nctumun",
+            "web" => "http://www.nctumun.org/"
         ),
         array(
             "name" => "柔道社",
