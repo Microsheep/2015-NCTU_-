@@ -9,7 +9,7 @@
     $page_name=["歡迎小卡","新生地圖","學聯會介紹","學聯會徵才","重要時程","生活資訊","小七團購P1","小七團購P2","特約商店P1","特約商店P2","計算機團購","檯燈團購","行動電源團購","學聯會費繳費事項"];
     $school_count=20;
     $region_count=20;
-    $club_count=5;
+    $club_count=6;
     $QA_count=2;
     $school=[
         array(
@@ -387,11 +387,11 @@
             "web" => ""
         ),
         array(
-            "name" => "",
-            "pdf" => "0",
+            "name" => "網路安全策進會",
+            "pdf" => "1",
             "photo" => "0",
-            "fb" => "",
-            "web" => ""
+            "fb" => "https://www.facebook.com/NCTUCSC",
+            "web" => "https://bamboofox.torchpad.com/"
         ),
         array(
             "name" => "",
