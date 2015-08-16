@@ -159,8 +159,8 @@
 		array(
             "name" => "傳播與科技學系",
             "ref" => "dct",
-            "pdf" => "0",
-            "fb" => "",
+            "pdf" => "1",
+            "fb" => "https://www.facebook.com/CT.Associa",
             "web" => "",
             "newcomer" => "https://www.facebook.com/groups/812464758844298"
         ),
