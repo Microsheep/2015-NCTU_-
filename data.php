@@ -9,7 +9,7 @@
     $page_name=["歡迎小卡","新生地圖","學聯會介紹","學聯會徵才","重要時程","生活資訊","小七團購P1","小七團購P2","特約商店P1","特約商店P2","計算機團購","檯燈團購","行動電源團購","學聯會費繳費事項"];
     $school_count=20;
     $region_count=20;
-    $club_count=10;
+    $club_count=13;
     $QA_count=2;
     $school=[
         array(
@@ -420,6 +420,41 @@
             "photo" => "1",
             "fb" => "https://www.facebook.com/pages/%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%B8%E6%98%9F%E8%81%B2%E7%A4%BE/106445842756224",
             "web" => "https://www.facebook.com/groups/540839232683099/"
+        ),
+        array(
+            "name" => "證券研習社",
+            "pdf" => "1",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/nctusrs",
+            "web" => ""
+        ),
+        array(
+            "name" => "魔術社",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/nctuMagic",
+            "web" => ""
+        ),
+        array(
+            "name" => "及人服務團",
+            "pdf" => "1",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/pages/及人服務團/167637766652407",
+            "web" => ""
+        ),
+        array(
+            "name" => "",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "",
+            "web" => ""
+        ),
+        array(
+            "name" => "",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "",
+            "web" => ""
         ),
         array(
             "name" => "",
