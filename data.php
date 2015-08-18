@@ -401,25 +401,25 @@
             "web" => "https://www.facebook.com/groups/387959324734149/"
         ),
         array(
-            "name" => "",
+            "name" => "劍道社",
             "pdf" => "0",
             "photo" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/nctukendo",
+            "web" => "http://web.it.nctu.edu.tw/~nctukendo/qna.html"
+        ),
+        array(
+            "name" => "花輪社",
+            "pdf" => "1",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/groups/296378307040482/",
             "web" => ""
         ),
         array(
-            "name" => "",
-            "pdf" => "0",
-            "photo" => "0",
-            "fb" => "",
-            "web" => ""
-        ),
-        array(
-            "name" => "",
-            "pdf" => "0",
-            "photo" => "0",
-            "fb" => "",
-            "web" => ""
+            "name" => "星聲社",
+            "pdf" => "1",
+            "photo" => "1",
+            "fb" => "https://www.facebook.com/pages/%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%B8%E6%98%9F%E8%81%B2%E7%A4%BE/106445842756224",
+            "web" => "https://www.facebook.com/groups/540839232683099/"
         ),
         array(
             "name" => "",
