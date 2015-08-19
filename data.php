@@ -430,7 +430,7 @@
         ),
         array(
             "name" => "魔術社",
-            "pdf" => "0",
+            "pdf" => "1",
             "photo" => "0",
             "fb" => "https://www.facebook.com/nctuMagic",
             "web" => ""
