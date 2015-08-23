@@ -402,8 +402,8 @@
         ),
         array(
             "name" => "劍道社",
-            "pdf" => "0",
-            "photo" => "0",
+            "pdf" => "1",
+            "photo" => "1",
             "fb" => "https://www.facebook.com/nctukendo",
             "web" => "http://web.it.nctu.edu.tw/~nctukendo/qna.html"
         ),
