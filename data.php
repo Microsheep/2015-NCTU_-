@@ -458,8 +458,8 @@
         ),
         array(
             "name" => "戲劇社",
-            "pdf" => "0",
-            "photo" => "0",
+            "pdf" => "1",
+            "photo" => "1",
             "fb" => "https://www.facebook.com/dramaclubnctu",
             "web" => ""
         ),
