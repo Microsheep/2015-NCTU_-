@@ -466,9 +466,9 @@
         array(
             "name" => "崇德青年志工社",
             "pdf" => "1",
-            "photo" => "0",
+            "photo" => "1",
             "fb" => "https://www.facebook.com/NCTUCDYoungVolunteers",
-            "web" => ""
+            "web" => "https://www.facebook.com/groups/758146294242897/"
         ),
         array(
             "name" => "",
