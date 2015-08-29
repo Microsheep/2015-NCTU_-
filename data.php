@@ -9,7 +9,7 @@
     $page_name=["歡迎小卡","新生地圖","學聯會介紹","學聯會徵才","重要時程","生活資訊","小七團購P1","小七團購P2","特約商店P1","特約商店P2","計算機團購","檯燈團購","行動電源團購","學聯會費繳費事項"];
     $school_count=20;
     $region_count=20;
-    $club_count=17;
+    $club_count=18;
     $QA_count=4;
     $school=[
         array(
@@ -471,10 +471,10 @@
             "web" => "https://www.facebook.com/groups/758146294242897/"
         ),
         array(
-            "name" => "",
-            "pdf" => "0",
-            "photo" => "0",
-            "fb" => "",
+            "name" => "鐵道會",
+            "pdf" => "1",
+            "photo" => "1",
+            "fb" => "https://www.facebook.com/NCTURail",
             "web" => ""
         ),
         array(
