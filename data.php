@@ -242,7 +242,7 @@
             "name" => "建中北一女校友會(建北會)",
             "pdf" => "1",
             "photo" => "1",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/pages/2015%E6%B8%85%E4%BA%A4%E5%BB%BA%E5%8C%97%E8%81%AF%E5%90%88%E8%BF%8E%E6%96%B0%E5%AE%BF%E7%87%9F/864703153565678",
             "web" => "",
 			"newcomer" => "https://www.facebook.com/groups/461459814024127/"
         ),
