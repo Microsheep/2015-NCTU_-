@@ -9,7 +9,7 @@
     $page_name=["歡迎小卡","新生地圖","學聯會介紹","學聯會徵才","重要時程","生活資訊","小七團購P1","小七團購P2","特約商店P1","特約商店P2","計算機團購","檯燈團購","行動電源團購","學聯會費繳費事項"];
     $school_count=20;
     $region_count=20;
-    $club_count=20;
+    $club_count=21;
     $QA_count=4;
     $school=[
         array(
@@ -489,6 +489,41 @@
             "pdf" => "0",
             "photo" => "0",
             "fb" => "https://www.facebook.com/groups/NCTUmountain/",
+            "web" => ""
+        ),
+        array(
+            "name" => "彩妝保養社",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/pages/%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%B8%E5%BD%A9%E5%A6%9D%E4%BF%9D%E9%A4%8A%E7%A4%BE/120834974684983",
+            "web" => ""
+        ),
+        array(
+            "name" => "",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "",
+            "web" => ""
+        ),
+        array(
+            "name" => "",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "",
+            "web" => ""
+        ),
+        array(
+            "name" => "",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "",
+            "web" => ""
+        ),
+        array(
+            "name" => "",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "",
             "web" => ""
         ),
 		array(
