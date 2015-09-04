@@ -479,7 +479,7 @@
         ),
         array(
             "name" => "信望愛社",
-            "pdf" => "0",
+            "pdf" => "1",
             "photo" => "0",
             "fb" => "https://www.facebook.com/nctufhl",
             "web" => "https://www.facebook.com/groups/265268466818755/"
