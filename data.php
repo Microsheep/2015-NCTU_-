@@ -9,7 +9,7 @@
     $page_name=["歡迎小卡","新生地圖","學聯會介紹","學聯會徵才","重要時程","生活資訊","小七團購P1","小七團購P2","特約商店P1","特約商店P2","計算機團購","檯燈團購","行動電源團購","學聯會費繳費事項"];
     $school_count=20;
     $region_count=20;
-    $club_count=23;
+    $club_count=25;
     $QA_count=4;
     $school=[
         array(
@@ -510,6 +510,41 @@
             "pdf" => "1",
             "photo" => "0",
             "fb" => "https://www.facebook.com/NCTUDMCC",
+            "web" => ""
+        ),
+        array(
+            "name" => "柏克萊學生團契",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/koinoniahsinchu",
+            "web" => ""
+        ),
+        array(
+            "name" => "管樂團",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/pages/%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%B8%E7%AE%A1%E6%A8%82%E5%9C%98/205591206145512",
+            "web" => ""
+        ),
+        array(
+            "name" => "",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "",
+            "web" => ""
+        ),
+        array(
+            "name" => "",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "",
+            "web" => ""
+        ),
+        array(
+            "name" => "",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "",
             "web" => ""
         ),
         array(
