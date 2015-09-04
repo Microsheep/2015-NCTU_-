@@ -78,7 +78,7 @@
                         </li>
                         <li class="active"><a href="./download_club.php">社團資訊</a></li>
                         <li class="active"><a href="./map.php">交大新生地圖</a></li>
-                    
+                        <li><a href="./pdf_view.php?id=D2&宿網設定教學">D2&宿網設定教學</a></li>
                         <li class="active"><a href=http://aadm.nctu.edu.tw/registra/freshman/freshman_a.html>新生入學指引網</a></li>
                     </ul>
                 </div>
