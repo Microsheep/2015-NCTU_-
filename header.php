@@ -78,7 +78,14 @@
                         </li>
                         <li class="active"><a href="./download_club.php">社團資訊</a></li>
                         <li class="active"><a href="./map.php">交大新生地圖</a></li>
-                        <li class="active"><a href="./pdf_view.php?id=D2宿網設定教學">D2&宿網設定教學</a></li>
+                        <li class="dropdown active">
+                            <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">各類教學<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./pdf_view.php?id=D2宿網設定教學">D2&宿網設定教學</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="./teach_course.php">選課教學</a></li>
+                            </ul>
+                        </li>
                         <li class="active"><a href=http://aadm.nctu.edu.tw/registra/freshman/freshman_a.html>新生入學指引網</a></li>
                     </ul>
                 </div>
