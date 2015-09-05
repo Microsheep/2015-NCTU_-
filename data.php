@@ -9,7 +9,7 @@
     $page_name=["歡迎小卡","新生地圖","學聯會介紹","學聯會徵才","重要時程","生活資訊","小七團購P1","小七團購P2","特約商店P1","特約商店P2","計算機團購","檯燈團購","行動電源團購","學聯會費繳費事項"];
     $school_count=20;
     $region_count=20;
-    $club_count=25;
+    $club_count=28;
     $QA_count=4;
     $school=[
         array(
@@ -527,24 +527,24 @@
             "web" => ""
         ),
         array(
-            "name" => "",
+            "name" => "鋼琴社",
             "pdf" => "0",
             "photo" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/nctuPIANO",
             "web" => ""
         ),
         array(
-            "name" => "",
+            "name" => "國樂團",
             "pdf" => "0",
             "photo" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/ilovenctucmc",
             "web" => ""
         ),
         array(
-            "name" => "",
+            "name" => "高爾夫球社",
             "pdf" => "0",
             "photo" => "0",
-            "fb" => "",
+            "fb" => "https://www.facebook.com/NCTUgolf",
             "web" => ""
         ),
         array(
