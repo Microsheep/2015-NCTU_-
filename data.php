@@ -9,7 +9,7 @@
     $page_name=["歡迎小卡","新生地圖","學聯會介紹","學聯會徵才","重要時程","生活資訊","小七團購P1","小七團購P2","特約商店P1","特約商店P2","計算機團購","檯燈團購","行動電源團購","學聯會費繳費事項"];
     $school_count=20;
     $region_count=20;
-    $club_count=28;
+    $club_count=32;
     $QA_count=4;
     $school=[
         array(
@@ -545,6 +545,48 @@
             "pdf" => "0",
             "photo" => "0",
             "fb" => "https://www.facebook.com/NCTUgolf",
+            "web" => ""
+        ),
+        array(
+            "name" => "布袋戲社",
+            "pdf" => "1",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/nctupdcfans",
+            "web" => ""
+        ),
+        array(
+            "name" => "咖啡社",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/NCTUcoffee",
+            "web" => ""
+        ),
+        array(
+            "name" => "慈青社",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/nctuclubtzuchi",
+            "web" => "https://www.facebook.com/groups/nctu.tzuchi/"
+        ),
+        array(
+            "name" => "文化服務團",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/JiaoDaWenFuGeiNiSuoYou",
+            "web" => ""
+        ),
+        array(
+            "name" => "焦點POP社",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/focuspopclub",
+            "web" => ""
+        ),
+        array(
+            "name" => "",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "",
             "web" => ""
         ),
         array(
