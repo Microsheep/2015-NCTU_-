@@ -583,6 +583,104 @@
             "web" => ""
         ),
         array(
+            "name" => "竹韻口琴社",
+            "pdf" => "1",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/nctubmhc",
+            "web" => ""
+        ),
+        array(
+            "name" => "動畫社",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/nctuanime",
+            "web" => ""
+        ),
+        array(
+            "name" => "證研社",
+            "pdf" => "0",
+            "photo" => "1",
+            "fb" => "",
+            "web" => "https://srsnctu.wix.com/srsnctu"
+        ),
+        array(
+            "name" => "桌上遊戲社",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/NCTUBG",
+            "web" => ""
+        ),
+        array(
+            "name" => "熱舞社",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/pages/NCTU-Popdance/236512046946",
+            "web" => ""
+        ),
+        array(
+            "name" => "橋藝社",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/groups/178089168941413",
+            "web" => ""
+        ),
+        array(
+            "name" => "攝影社",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/pages/%E4%BA%A4%E5%A4%A7%E6%94%9D%E5%BD%B1%E7%A4%BE/163474003683212",
+            "web" => "https://www.facebook.com/groups/196123263786384/"
+        ),
+        array(
+            "name" => "山服社",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/nctusanfupower",
+            "web" => ""
+        ),
+        array(
+            "name" => "單車社",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/werideourlife2015",
+            "web" => ""
+        ),
+        array(
+            "name" => "社會企業創思社",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/nctu.strong.2013",
+            "web" => ""
+        ),
+        array(
+            "name" => "虹韻世界舞蹈社",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "https://www.facebook.com/pages/%E4%BA%A4%E5%A4%A7%E8%99%B9%E9%9F%BB%E4%B8%96%E7%95%8C%E6%B0%91%E6%97%8F%E8%88%9E%E8%B9%88%E7%A4%BE/841344012609062",
+            "web" => "https://www.facebook.com/groups/nctufolkdance/"
+        ),
+        array(
+            "name" => "",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "",
+            "web" => ""
+        ),
+        array(
+            "name" => "",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "",
+            "web" => ""
+        ),
+        array(
+            "name" => "",
+            "pdf" => "0",
+            "photo" => "0",
+            "fb" => "",
+            "web" => ""
+        ),
+        array(
             "name" => "",
             "pdf" => "0",
             "photo" => "0",
