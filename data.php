@@ -653,7 +653,7 @@
             "web" => ""
         ),
         array(
-            "name" => "虹韻世界舞蹈社",
+            "name" => "虹韻世界民族舞蹈社",
             "pdf" => "0",
             "photo" => "0",
             "fb" => "https://www.facebook.com/pages/%E4%BA%A4%E5%A4%A7%E8%99%B9%E9%9F%BB%E4%B8%96%E7%95%8C%E6%B0%91%E6%97%8F%E8%88%9E%E8%B9%88%E7%A4%BE/841344012609062",
